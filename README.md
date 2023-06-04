@@ -1,4 +1,4 @@
-# 产业链知识图谱
+# 产业链知识图谱前端界面
 
 ## 一、项目使用说明
 ```
@@ -14,8 +14,6 @@ npm install d3 --save-dev # 下载最新版，但拖拽和缩放兼容性有点�
 npm install echarts-wordcloud -save
 # 依赖安装二选一
 npm install
-# yarn需要全局安装一下
-yarn install
 ```
 ### 项目知识点
 元素组件库：https://element-plus.gitee.io/zh-CN
@@ -41,10 +39,6 @@ npm run serve
 npm run build
 ```
 
-### 使用lint检查并修复文件
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
@@ -52,17 +46,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## 二、代码说明
 ### 1. 代码结构
 - **组件**存放在 `components` 文件夹
-    - `CommonAside.vue` —— 侧边功能选择区组件 
-    - `CommonHeader.vue` —— 页面顶部组件
-    - `d3graph.vue` —— 2D图谱展示组件
-    - `threeGraph.vue` —— 3D图谱展示组件
-    - `gSearch.vue` —— 搜索组件，目前主要通过require代替后台请求
 - **页面**存放在 `views` 文件夹
-	- `2dView.vue`	——	2D图谱展示页面
-	- `3dView.vue`	——	3D图谱展示页面
-- **d3插件**存放在 `plugins` 文件夹
-	- `d3-context-menu.js` —— 右键菜单事件注册及回调函数
-	- `d3-context-menu.scss` —— 右键菜单样式文件
 - **路由**存放在 `router` 文件夹
 	- `index.js` —— 路由设置
 - **依赖插件及版本说明等**在 `package.json` 
