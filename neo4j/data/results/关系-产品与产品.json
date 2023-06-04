@@ -1,0 +1,74 @@
+[
+    {
+        "from": "锂电池正极材料",
+        "to": "电解液",
+        "id_from": 679,
+        "id_to": 3080,
+        "rel": "上游材料",
+        "from_type": "product",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池",
+        "to": "锂电池正极材料",
+        "id_from": 1496,
+        "id_to": 679,
+        "rel": "产品小类",
+        "from_type": "product",
+        "to_type": "product"
+    },
+    {
+        "from": "锂云母",
+        "to": "碳酸锂",
+        "id_from": 1585,
+        "id_to": 1985,
+        "rel": "下游产品",
+        "from_type": "product",
+        "to_type": "product"
+    },
+    {
+        "from": "碳酸锂",
+        "to": "锂云母",
+        "id_from": 1985,
+        "id_to": 1585,
+        "rel": "上游材料",
+        "from_type": "product",
+        "to_type": "product"
+    },
+    {
+        "from": "锂离子电池",
+        "to": "锂离子电池隔膜",
+        "id_from": 2645,
+        "id_to": 476,
+        "rel": "产品小类",
+        "from_type": "product",
+        "to_type": "product"
+    },
+    {
+        "from": "电池",
+        "to": "锂铁电池",
+        "id_from": 3149,
+        "id_to": 1065,
+        "rel": "产品小类",
+        "from_type": "product",
+        "to_type": "product"
+    },
+    {
+        "from": "电池",
+        "to": "锂电池",
+        "id_from": 3149,
+        "id_to": 1496,
+        "rel": "产品小类",
+        "from_type": "product",
+        "to_type": "product"
+    },
+    {
+        "from": "电池",
+        "to": "锂离子电池",
+        "id_from": 3149,
+        "id_to": 2645,
+        "rel": "产品小类",
+        "from_type": "product",
+        "to_type": "product"
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "name": "上游（原材料）",
+        "type": "link"
+    },
+    {
+        "name": "原料矿产",
+        "type": "link"
+    },
+    {
+        "name": "锂盐",
+        "type": "link"
+    },
+    {
+        "name": "铜箔材",
+        "type": "link"
+    },
+    {
+        "name": "分散剂",
+        "type": "link"
+    },
+    {
+        "name": "锂电池铝塑膜",
+        "type": "link"
+    },
+    {
+        "name": "锂电池粘结剂",
+        "type": "link"
+    },
+    {
+        "name": "电池壳（电芯壳）",
+        "type": "link"
+    },
+    {
+        "name": "极耳",
+        "type": "link"
+    },
+    {
+        "name": "铝箔材",
+        "type": "link"
+    },
+    {
+        "name": "其他辅材",
+        "type": "link"
+    },
+    {
+        "name": "氢氧化锂",
+        "type": "link"
+    },
+    {
+        "name": "锂矿",
+        "type": "link"
+    },
+    {
+        "name": "盐湖卤水",
+        "type": "link"
+    },
+    {
+        "name": "碳酸锂",
+        "type": "link"
+    },
+    {
+        "name": "钴矿",
+        "type": "link"
+    },
+    {
+        "name": "锰矿",
+        "type": "link"
+    },
+    {
+        "name": "镍矿",
+        "type": "link"
+    },
+    {
+        "name": "材料",
+        "type": "link"
+    },
+    {
+        "name": "锂电池正极材料",
+        "type": "link"
+    },
+    {
+        "name": "三元材料",
+        "type": "link"
+    },
+    {
+        "name": "磷酸铁锂",
+        "type": "link"
+    },
+    {
+        "name": "钴酸锂",
+        "type": "link"
+    },
+    {
+        "name": "锰酸锂",
+        "type": "link"
+    },
+    {
+        "name": "镍酸锂",
+        "type": "link"
+    },
+    {
+        "name": "富锂锰基固溶体",
+        "type": "link"
+    },
+    {
+        "name": "锂电池负极材料",
+        "type": "link"
+    },
+    {
+        "name": "人造石墨",
+        "type": "link"
+    },
+    {
+        "name": "天然石墨",
+        "type": "link"
+    },
+    {
+        "name": "改性石墨",
+        "type": "link"
+    },
+    {
+        "name": "碳纳米管",
+        "type": "link"
+    },
+    {
+        "name": "石墨烯",
+        "type": "link"
+    },
+    {
+        "name": "硅碳负极",
+        "type": "link"
+    },
+    {
+        "name": "钛酸锂",
+        "type": "link"
+    },
+    {
+        "name": "锂电池电解液材料",
+        "type": "link"
+    },
+    {
+        "name": "电解液溶剂",
+        "type": "link"
+    },
+    {
+        "name": "电解质",
+        "type": "link"
+    },
+    {
+        "name": "六氟磷酸锂",
+        "type": "link"
+    },
+    {
+        "name": "双氟磺酰亚胺锂",
+        "type": "link"
+    },
+    {
+        "name": "添加剂",
+        "type": "link"
+    },
+    {
+        "name": "耐高低温添加剂",
+        "type": "link"
+    },
+    {
+        "name": "成膜添加剂",
+        "type": "link"
+    },
+    {
+        "name": "导电添加剂",
+        "type": "link"
+    },
+    {
+        "name": "耐过充过放添加剂",
+        "type": "link"
+    },
+    {
+        "name": "阻燃剂",
+        "type": "link"
+    },
+    {
+        "name": "锂电池隔膜材料",
+        "type": "link"
+    },
+    {
+        "name": "聚烯烃",
+        "type": "link"
+    },
+    {
+        "name": "锂电设备",
+        "type": "link"
+    },
+    {
+        "name": "搅拌机",
+        "type": "link"
+    },
+    {
+        "name": "涂布机",
+        "type": "link"
+    },
+    {
+        "name": "锟压机",
+        "type": "link"
+    },
+    {
+        "name": "分切机",
+        "type": "link"
+    },
+    {
+        "name": "卷绕机",
+        "type": "link"
+    },
+    {
+        "name": "叠片机",
+        "type": "link"
+    },
+    {
+        "name": "注液机",
+        "type": "link"
+    },
+    {
+        "name": "混合设备",
+        "type": "link"
+    },
+    {
+        "name": "干燥设备",
+        "type": "link"
+    },
+    {
+        "name": "锂电装配设备（系统）",
+        "type": "link"
+    },
+    {
+        "name": "锂电化成及检测设备（系统）",
+        "type": "link"
+    },
+    {
+        "name": "锂电自动化成套设备（系统）",
+        "type": "link"
+    },
+    {
+        "name": "中游（四大材料+设备）",
+        "type": "link"
+    },
+    {
+        "name": "锂电池模组及PACK",
+        "type": "link"
+    },
+    {
+        "name": "锂电芯组成",
+        "type": "link"
+    },
+    {
+        "name": "锂电池隔膜",
+        "type": "link"
+    },
+    {
+        "name": "锂电池电解液",
+        "type": "link"
+    },
+    {
+        "name": "锂电池正极",
+        "type": "link"
+    },
+    {
+        "name": "锂电池负极",
+        "type": "link"
+    },
+    {
+        "name": "电池管理系统（BMS）",
+        "type": "link"
+    },
+    {
+        "name": "磷酸铁锂电池",
+        "type": "link"
+    },
+    {
+        "name": "三元电池",
+        "type": "link"
+    },
+    {
+        "name": "固态锂电池",
+        "type": "link"
+    },
+    {
+        "name": "下游（电池制造）",
+        "type": "link"
+    },
+    {
+        "name": "新能源汽车",
+        "type": "link"
+    },
+    {
+        "name": "储能领域",
+        "type": "link"
+    },
+    {
+        "name": "消费电子",
+        "type": "link"
+    },
+    {
+        "name": "电动工具",
+        "type": "link"
+    },
+    {
+        "name": "锂电池回收",
+        "type": "link"
+    }
+]

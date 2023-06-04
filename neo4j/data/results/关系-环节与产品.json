@@ -1,0 +1,1712 @@
+[
+    {
+        "from": "上游（原材料）",
+        "to": "金属锂",
+        "id_from": 320,
+        "id_to": 2224,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "上游（原材料）",
+        "to": "锂类",
+        "id_from": 320,
+        "id_to": 2160,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "上游（原材料）",
+        "to": "锂材",
+        "id_from": 320,
+        "id_to": 1901,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "上游（原材料）",
+        "to": "锂电池化学品",
+        "id_from": 320,
+        "id_to": 1805,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "上游（原材料）",
+        "to": "金属锂系列",
+        "id_from": 320,
+        "id_to": 1721,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "上游（原材料）",
+        "to": "锂化合物",
+        "id_from": 320,
+        "id_to": 1568,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "上游（原材料）",
+        "to": "锂业",
+        "id_from": 320,
+        "id_to": 1297,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "上游（原材料）",
+        "to": "锂离子电池用材料",
+        "id_from": 320,
+        "id_to": 1121,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "原料矿产",
+        "to": "锂云母",
+        "id_from": 321,
+        "id_to": 1585,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "磷酸锂",
+        "id_from": 322,
+        "id_to": 3810,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "深加工锂化合物系列",
+        "id_from": 322,
+        "id_to": 3468,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "锂衍生",
+        "id_from": 322,
+        "id_to": 3280,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "锂化物系列",
+        "id_from": 322,
+        "id_to": 2934,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "锂盐加工销售业务",
+        "id_from": 322,
+        "id_to": 2859,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "氯化锂",
+        "id_from": 322,
+        "id_to": 2730,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "无水氯化锂",
+        "id_from": 322,
+        "id_to": 2548,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "氟化锂",
+        "id_from": 322,
+        "id_to": 1241,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "丁基锂",
+        "id_from": 322,
+        "id_to": 653,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "锂盐加工",
+        "id_from": 322,
+        "id_to": 4129,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "锂盐",
+        "id_from": 322,
+        "id_to": 4022,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "锂盐系列",
+        "id_from": 322,
+        "id_to": 1703,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂盐",
+        "to": "锂盐销售",
+        "id_from": 322,
+        "id_to": 1173,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "铜箔材",
+        "to": "锂电铜箔",
+        "id_from": 323,
+        "id_to": 532,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "铜箔材",
+        "to": "铜箔",
+        "id_from": 323,
+        "id_to": 559,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池铝塑膜",
+        "to": "锂离子电池封装用材料",
+        "id_from": 325,
+        "id_to": 2432,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池粘结剂",
+        "to": "锂电池粘结剂",
+        "id_from": 326,
+        "id_to": 3519,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "电池壳（电芯壳）",
+        "to": "铝壳类锂离子电池",
+        "id_from": 327,
+        "id_to": 3300,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "电池壳（电芯壳）",
+        "to": "动力锂电池钢壳材料",
+        "id_from": 327,
+        "id_to": 1039,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "铝箔材",
+        "to": "铝箔",
+        "id_from": 329,
+        "id_to": 3380,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "氢氧化锂",
+        "to": "氢氧化锂",
+        "id_from": 331,
+        "id_to": 1719,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂矿",
+        "to": "锂精矿销售",
+        "id_from": 332,
+        "id_to": 1834,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂矿",
+        "to": "锂精矿",
+        "id_from": 332,
+        "id_to": 564,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂矿",
+        "to": "锂矿",
+        "id_from": 332,
+        "id_to": 2468,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂矿",
+        "to": "锂矿采选",
+        "id_from": 332,
+        "id_to": 2022,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "碳酸锂",
+        "to": "工业级碳酸锂",
+        "id_from": 334,
+        "id_to": 4135,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "碳酸锂",
+        "to": "碳酸锂及锂系列产品",
+        "id_from": 334,
+        "id_to": 2439,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "碳酸锂",
+        "to": "电池级碳酸锂",
+        "id_from": 334,
+        "id_to": 1722,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "碳酸锂",
+        "to": "高纯碳酸锂",
+        "id_from": 334,
+        "id_to": 3651,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "碳酸锂",
+        "to": "碳酸锂系列",
+        "id_from": 334,
+        "id_to": 3441,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "碳酸锂",
+        "to": "碳酸锂",
+        "id_from": 334,
+        "id_to": 1985,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "钴矿",
+        "to": "钴",
+        "id_from": 335,
+        "id_to": 2798,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锰矿",
+        "to": "锰矿",
+        "id_from": 336,
+        "id_to": 538,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "镍矿",
+        "to": "镍",
+        "id_from": 337,
+        "id_to": 3427,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "镍矿",
+        "to": "镍矿",
+        "id_from": 337,
+        "id_to": 737,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "材料",
+        "to": "动力锂电池材料",
+        "id_from": 338,
+        "id_to": 4150,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "材料",
+        "to": "锂电材料",
+        "id_from": 338,
+        "id_to": 3459,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "材料",
+        "to": "锂离子电池及其材料",
+        "id_from": 338,
+        "id_to": 3311,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "材料",
+        "to": "锂离子电池材料",
+        "id_from": 338,
+        "id_to": 2870,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "材料",
+        "to": "锂电池材料",
+        "id_from": 338,
+        "id_to": 2505,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池正极材料",
+        "to": "锂电正极材料",
+        "id_from": 339,
+        "id_to": 2952,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池正极材料",
+        "to": "锂离子电池正极材料",
+        "id_from": 339,
+        "id_to": 2078,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池正极材料",
+        "to": "锂锰型电解二氧化锰",
+        "id_from": 339,
+        "id_to": 798,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池正极材料",
+        "to": "锰酸锂",
+        "id_from": 339,
+        "id_to": 642,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池正极材料",
+        "to": "动力锂电池材料",
+        "id_from": 339,
+        "id_to": 4150,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池正极材料",
+        "to": "锂电池材料",
+        "id_from": 339,
+        "id_to": 2505,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池正极材料",
+        "to": "锂电池正极材料",
+        "id_from": 339,
+        "id_to": 679,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "三元材料",
+        "to": "三元正极材料",
+        "id_from": 340,
+        "id_to": 1493,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "三元材料",
+        "to": "三元材料及制品",
+        "id_from": 340,
+        "id_to": 833,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "三元材料",
+        "to": "三元材料",
+        "id_from": 340,
+        "id_to": 699,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "磷酸铁锂",
+        "to": "磷酸锰铁锂及制品",
+        "id_from": 341,
+        "id_to": 2376,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "磷酸铁锂",
+        "to": "磷酸铁锂及制品",
+        "id_from": 341,
+        "id_to": 2973,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "磷酸铁锂",
+        "to": "纳米磷酸铁锂",
+        "id_from": 341,
+        "id_to": 2707,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "磷酸铁锂",
+        "to": "磷酸铁锂",
+        "id_from": 341,
+        "id_to": 1830,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "钴酸锂",
+        "to": "钴酸锂",
+        "id_from": 342,
+        "id_to": 3685,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锰酸锂",
+        "to": "锂锰电解二氧化锰",
+        "id_from": 343,
+        "id_to": 3483,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锰酸锂",
+        "to": "锰酸锂专用二氧化锰",
+        "id_from": 343,
+        "id_to": 3118,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锰酸锂",
+        "to": "锰酸锂正极材料",
+        "id_from": 343,
+        "id_to": 1894,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锰酸锂",
+        "to": "锰酸锂",
+        "id_from": 343,
+        "id_to": 642,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "镍酸锂",
+        "to": "钴酸锂",
+        "id_from": 344,
+        "id_to": 3685,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池负极材料",
+        "to": "锂离子电池负极材料",
+        "id_from": 346,
+        "id_to": 3801,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池负极材料",
+        "to": "锂离子电池用负极材料",
+        "id_from": 346,
+        "id_to": 1454,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池负极材料",
+        "to": "动力锂电池材料",
+        "id_from": 346,
+        "id_to": 4150,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池负极材料",
+        "to": "锂电池负极材料研发",
+        "id_from": 346,
+        "id_to": 2675,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池负极材料",
+        "to": "锂电池材料",
+        "id_from": 346,
+        "id_to": 2505,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "碳纳米管",
+        "to": "碳纳米管粉体",
+        "id_from": 350,
+        "id_to": 2231,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "石墨烯",
+        "to": "石墨烯制品",
+        "id_from": 351,
+        "id_to": 2791,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "石墨烯",
+        "to": "石墨烯产业化应用",
+        "id_from": 351,
+        "id_to": 1429,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "石墨烯",
+        "to": "石墨烯材料",
+        "id_from": 351,
+        "id_to": 812,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池电解液材料",
+        "to": "锂离子电池化学品",
+        "id_from": 354,
+        "id_to": 3798,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池电解液材料",
+        "to": "锂电池材料",
+        "id_from": 354,
+        "id_to": 2505,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "电解液溶剂",
+        "to": "电解液",
+        "id_from": 355,
+        "id_to": 3080,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "电解质",
+        "to": "六氟磷酸锂",
+        "id_from": 356,
+        "id_to": 1147,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "六氟磷酸锂",
+        "to": "磷酸锂",
+        "id_from": 357,
+        "id_to": 3810,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "六氟磷酸锂",
+        "to": "六氟磷酸锂",
+        "id_from": 357,
+        "id_to": 1147,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "添加剂",
+        "to": "电解液添加剂",
+        "id_from": 359,
+        "id_to": 1184,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "阻燃剂",
+        "to": "阻燃剂",
+        "id_from": 364,
+        "id_to": 2789,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池隔膜材料",
+        "to": "动力锂电池材料",
+        "id_from": 365,
+        "id_to": 4150,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池隔膜材料",
+        "to": "锂电池隔膜",
+        "id_from": 365,
+        "id_to": 2821,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池隔膜材料",
+        "to": "锂电池材料",
+        "id_from": 365,
+        "id_to": 2505,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电设备",
+        "to": "锂电池生产设备",
+        "id_from": 367,
+        "id_to": 3835,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电设备",
+        "to": "锂电池生产设备系列",
+        "id_from": 367,
+        "id_to": 2917,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电设备",
+        "to": "锂电池设备",
+        "id_from": 367,
+        "id_to": 1994,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电设备",
+        "to": "锂电池装备",
+        "id_from": 367,
+        "id_to": 1406,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电设备",
+        "to": "锂离子电池设备",
+        "id_from": 367,
+        "id_to": 939,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电设备",
+        "to": "锂电池专用设备",
+        "id_from": 367,
+        "id_to": 832,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电设备",
+        "to": "锂离子电池自动化生产设备",
+        "id_from": 367,
+        "id_to": 688,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电设备",
+        "to": "锂电设备销售",
+        "id_from": 367,
+        "id_to": 3008,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电设备",
+        "to": "锂电设备",
+        "id_from": 367,
+        "id_to": 1683,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电设备",
+        "to": "锂电单体设备销售业务",
+        "id_from": 367,
+        "id_to": 1257,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电设备",
+        "to": "锂电设备业务",
+        "id_from": 367,
+        "id_to": 1013,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "搅拌机",
+        "to": "行星搅拌机",
+        "id_from": 368,
+        "id_to": 3677,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "涂布机",
+        "to": "涂布机",
+        "id_from": 369,
+        "id_to": 3732,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "涂布机",
+        "to": "涂布机系列",
+        "id_from": 369,
+        "id_to": 3058,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "卷绕机",
+        "to": "卷绕机",
+        "id_from": 372,
+        "id_to": 1824,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "叠片机",
+        "to": "叠片机",
+        "id_from": 373,
+        "id_to": 625,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "注液机",
+        "to": "注液机",
+        "id_from": 374,
+        "id_to": 2044,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "注液机",
+        "to": "电池注液机",
+        "id_from": 374,
+        "id_to": 554,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "混合设备",
+        "to": "混合设备",
+        "id_from": 375,
+        "id_to": 1081,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电化成及检测设备（系统）",
+        "to": "锂电池组工况模拟检测系统",
+        "id_from": 378,
+        "id_to": 3291,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电化成及检测设备（系统）",
+        "to": "锂电池组充放电检测系统",
+        "id_from": 378,
+        "id_to": 3195,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电化成及检测设备（系统）",
+        "to": "锂电智能检测",
+        "id_from": 378,
+        "id_to": 2733,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电化成及检测设备（系统）",
+        "to": "锂电池成品检测系统",
+        "id_from": 378,
+        "id_to": 2612,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电化成及检测设备（系统）",
+        "to": "锂电池保护板检测系统",
+        "id_from": 378,
+        "id_to": 2152,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电化成及检测设备（系统）",
+        "to": "锂电检测自动化",
+        "id_from": 378,
+        "id_to": 1216,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电化成及检测设备（系统）",
+        "to": "锂电池化成",
+        "id_from": 378,
+        "id_to": 1082,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电自动化成套设备（系统）",
+        "to": "锂电池智能装备",
+        "id_from": 379,
+        "id_to": 2797,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电自动化成套设备（系统）",
+        "to": "锂电池生产装备",
+        "id_from": 379,
+        "id_to": 2629,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电自动化成套设备（系统）",
+        "to": "锂电智能产线",
+        "id_from": 379,
+        "id_to": 2379,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电自动化成套设备（系统）",
+        "to": "锂电池组自动化组装设备",
+        "id_from": 379,
+        "id_to": 1663,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池模组及PACK",
+        "to": "动力锂电池组",
+        "id_from": 381,
+        "id_to": 4056,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池模组及PACK",
+        "to": "锂离子蓄电池组",
+        "id_from": 381,
+        "id_to": 2520,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池模组及PACK",
+        "to": "锂电池模组",
+        "id_from": 381,
+        "id_to": 2027,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池模组及PACK",
+        "to": "锂电池",
+        "id_from": 381,
+        "id_to": 1496,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电芯组成",
+        "to": "锂离子电芯",
+        "id_from": 382,
+        "id_to": 3543,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电芯组成",
+        "to": "锂电芯生产",
+        "id_from": 382,
+        "id_to": 3133,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池隔膜",
+        "to": "锂离子电池隔膜新能源材料",
+        "id_from": 383,
+        "id_to": 2686,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池隔膜",
+        "to": "锂离子电池隔膜",
+        "id_from": 383,
+        "id_to": 476,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池隔膜",
+        "to": "锂电池隔膜",
+        "id_from": 383,
+        "id_to": 2821,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池电解液",
+        "to": "锂离子电池电解液",
+        "id_from": 384,
+        "id_to": 3170,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池电解液",
+        "to": "电解液",
+        "id_from": 384,
+        "id_to": 3080,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池电解液",
+        "to": "锂电池",
+        "id_from": 384,
+        "id_to": 1496,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池正极",
+        "to": "锰酸锂型电解二氧化锰",
+        "id_from": 385,
+        "id_to": 1478,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "锂电池正极",
+        "to": "锂电池正极材料",
+        "id_from": 385,
+        "id_to": 679,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "电池管理系统（BMS）",
+        "to": "锂电池组BMS检测系统",
+        "id_from": 387,
+        "id_to": 1338,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "电池管理系统（BMS）",
+        "to": "锂电池保护和控制装置",
+        "id_from": 387,
+        "id_to": 528,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "电池管理系统（BMS）",
+        "to": "电池管理系统",
+        "id_from": 387,
+        "id_to": 3150,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "电池管理系统（BMS）",
+        "to": "电池",
+        "id_from": 387,
+        "id_to": 3149,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "电池管理系统（BMS）",
+        "to": "BMS电池管理系统",
+        "id_from": 387,
+        "id_to": 771,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "磷酸铁锂电池",
+        "to": "铁锂电芯",
+        "id_from": 388,
+        "id_to": 3340,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "磷酸铁锂电池",
+        "to": "锂电池",
+        "id_from": 388,
+        "id_to": 1496,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "三元电池",
+        "to": "电池",
+        "id_from": 389,
+        "id_to": 3149,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "固态锂电池",
+        "to": "锂电池",
+        "id_from": 390,
+        "id_to": 1496,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂聚合物电池",
+        "id_from": 391,
+        "id_to": 3847,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "动力锂电池",
+        "id_from": 391,
+        "id_to": 3771,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂二次电池",
+        "id_from": 391,
+        "id_to": 3694,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂电池结构件",
+        "id_from": 391,
+        "id_to": 3571,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂聚合物组合电池",
+        "id_from": 391,
+        "id_to": 3549,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂电池类",
+        "id_from": 391,
+        "id_to": 3495,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "一次锂电电池",
+        "id_from": 391,
+        "id_to": 3407,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂锰电池",
+        "id_from": 391,
+        "id_to": 3316,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "二次锂离子电池",
+        "id_from": 391,
+        "id_to": 3199,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "一次锂电池",
+        "id_from": 391,
+        "id_to": 3023,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂亚电池",
+        "id_from": 391,
+        "id_to": 2965,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂离子电池",
+        "id_from": 391,
+        "id_to": 2645,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "一次锂离子电池",
+        "id_from": 391,
+        "id_to": 2580,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂离子电池制造",
+        "id_from": 391,
+        "id_to": 2195,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "聚合物类锂离子电池",
+        "id_from": 391,
+        "id_to": 2137,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂电池系列",
+        "id_from": 391,
+        "id_to": 2106,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂原电池",
+        "id_from": 391,
+        "id_to": 2079,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂离子电池应急电源",
+        "id_from": 391,
+        "id_to": 2029,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "含锂离子电池",
+        "id_from": 391,
+        "id_to": 1996,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂电池",
+        "id_from": 391,
+        "id_to": 1496,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂铁电池",
+        "id_from": 391,
+        "id_to": 1065,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂离子动力电池",
+        "id_from": 391,
+        "id_to": 814,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂一次电池",
+        "id_from": 391,
+        "id_to": 628,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "锂电电池",
+        "id_from": 391,
+        "id_to": 622,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "下游（电池制造）",
+        "to": "电池",
+        "id_from": 391,
+        "id_to": 3149,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车用电加热器",
+        "id_from": 392,
+        "id_to": 4019,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源",
+        "id_from": 392,
+        "id_to": 3731,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "汽车",
+        "id_from": 392,
+        "id_to": 3729,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车零组件",
+        "id_from": 392,
+        "id_to": 3664,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车租赁服务",
+        "id_from": 392,
+        "id_to": 3645,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车",
+        "id_from": 392,
+        "id_to": 3616,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车充电桩",
+        "id_from": 392,
+        "id_to": 3398,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车销售",
+        "id_from": 392,
+        "id_to": 3172,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车配套",
+        "id_from": 392,
+        "id_to": 3097,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车整车",
+        "id_from": 392,
+        "id_to": 2794,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车动力电池组",
+        "id_from": 392,
+        "id_to": 2149,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车充电站点",
+        "id_from": 392,
+        "id_to": 1886,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车动力总成",
+        "id_from": 392,
+        "id_to": 1828,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车充电服务",
+        "id_from": 392,
+        "id_to": 1704,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车动力系统",
+        "id_from": 392,
+        "id_to": 1012,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车零部件",
+        "id_from": 392,
+        "id_to": 867,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车租售",
+        "id_from": 392,
+        "id_to": 819,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "新能源汽车",
+        "to": "新能源汽车电控",
+        "id_from": 392,
+        "id_to": 613,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "储能领域",
+        "to": "锂离子储能电池",
+        "id_from": 393,
+        "id_to": 3658,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "储能领域",
+        "to": "锂电池储能系统",
+        "id_from": 393,
+        "id_to": 2216,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "储能领域",
+        "to": "储能",
+        "id_from": 393,
+        "id_to": 2300,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "消费电子",
+        "to": "消费电子散热配件",
+        "id_from": 394,
+        "id_to": 673,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    },
+    {
+        "from": "电动工具",
+        "to": "电动工具",
+        "id_from": 395,
+        "id_to": 704,
+        "rel": "相关产品",
+        "from_type": "link",
+        "to_type": "product"
+    }
+]

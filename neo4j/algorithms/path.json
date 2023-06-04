@@ -1,0 +1,1568 @@
+{
+    "环节": [
+        {
+            "name": "上游（原材料）",
+            "id": 320,
+            "type": "link"
+        },
+        {
+            "name": "原料矿产",
+            "id": 321,
+            "type": "link"
+        },
+        {
+            "name": "锂盐",
+            "id": 322,
+            "type": "link"
+        },
+        {
+            "name": "氢氧化锂",
+            "id": 331,
+            "type": "link"
+        },
+        {
+            "name": "锂矿",
+            "id": 332,
+            "type": "link"
+        },
+        {
+            "name": "盐湖卤水",
+            "id": 333,
+            "type": "link"
+        },
+        {
+            "name": "碳酸锂",
+            "id": 334,
+            "type": "link"
+        },
+        {
+            "name": "钴矿",
+            "id": 335,
+            "type": "link"
+        },
+        {
+            "name": "锰矿",
+            "id": 336,
+            "type": "link"
+        },
+        {
+            "name": "镍矿",
+            "id": 337,
+            "type": "link"
+        }
+    ],
+    "公司": [
+        {
+            "name": "西藏城投",
+            "id": 8,
+            "type": "company"
+        },
+        {
+            "name": "西藏珠峰",
+            "id": 9,
+            "type": "company"
+        },
+        {
+            "name": "西藏矿业",
+            "id": 10,
+            "type": "company"
+        },
+        {
+            "name": "雅化集团",
+            "id": 12,
+            "type": "company"
+        },
+        {
+            "name": "天齐锂业",
+            "id": 13,
+            "type": "company"
+        },
+        {
+            "name": "盛新锂能",
+            "id": 23,
+            "type": "company"
+        },
+        {
+            "name": "川能动力",
+            "id": 26,
+            "type": "company"
+        },
+        {
+            "name": "蓝晓科技",
+            "id": 34,
+            "type": "company"
+        },
+        {
+            "name": "盐湖股份",
+            "id": 37,
+            "type": "company"
+        },
+        {
+            "name": "藏格矿业",
+            "id": 38,
+            "type": "company"
+        },
+        {
+            "name": "白银有色",
+            "id": 42,
+            "type": "company"
+        },
+        {
+            "name": "海南矿业",
+            "id": 64,
+            "type": "company"
+        },
+        {
+            "name": "兆新股份",
+            "id": 106,
+            "type": "company"
+        },
+        {
+            "name": "光华科技",
+            "id": 124,
+            "type": "company"
+        },
+        {
+            "name": "融捷股份",
+            "id": 142,
+            "type": "company"
+        },
+        {
+            "name": "天铁股份",
+            "id": 157,
+            "type": "company"
+        },
+        {
+            "name": "凯恩股份",
+            "id": 172,
+            "type": "company"
+        },
+        {
+            "name": "永兴材料",
+            "id": 182,
+            "type": "company"
+        },
+        {
+            "name": "中化国际",
+            "id": 197,
+            "type": "company"
+        },
+        {
+            "name": "鹏欣资源",
+            "id": 198,
+            "type": "company"
+        },
+        {
+            "name": "江西铜业",
+            "id": 214,
+            "type": "company"
+        },
+        {
+            "name": "江特电机",
+            "id": 216,
+            "type": "company"
+        },
+        {
+            "name": "赣锋锂业",
+            "id": 217,
+            "type": "company"
+        },
+        {
+            "name": "兴业股份",
+            "id": 240,
+            "type": "company"
+        },
+        {
+            "name": "江苏国泰",
+            "id": 251,
+            "type": "company"
+        },
+        {
+            "name": "久吾高科",
+            "id": 256,
+            "type": "company"
+        },
+        {
+            "name": "盛屯矿业",
+            "id": 263,
+            "type": "company"
+        },
+        {
+            "name": "铜陵有色",
+            "id": 273,
+            "type": "company"
+        },
+        {
+            "name": "宏源药业",
+            "id": 319,
+            "type": "company"
+        }
+    ],
+    "产品": [
+        {
+            "name": "锂云母",
+            "id": 1585,
+            "type": "product"
+        },
+        {
+            "name": "碳酸锂",
+            "id": 1985,
+            "type": "product"
+        }
+    ],
+    "新闻": [],
+    "环节与环节": [
+        {
+            "from_type": "link",
+            "to_type": "link",
+            "id_from": 321,
+            "rel": "属于",
+            "id_to": 320,
+            "from": "原料矿产",
+            "to": "上游（原材料）"
+        },
+        {
+            "from_type": "link",
+            "to_type": "link",
+            "id_from": 322,
+            "rel": "属于",
+            "id_to": 321,
+            "from": "锂盐",
+            "to": "原料矿产"
+        },
+        {
+            "from_type": "link",
+            "to_type": "link",
+            "id_from": 331,
+            "rel": "属于",
+            "id_to": 322,
+            "from": "氢氧化锂",
+            "to": "锂盐"
+        },
+        {
+            "from_type": "link",
+            "to_type": "link",
+            "id_from": 332,
+            "rel": "提炼",
+            "id_to": 331,
+            "from": "锂矿",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "link",
+            "id_from": 333,
+            "rel": "提炼",
+            "id_to": 331,
+            "from": "盐湖卤水",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "link",
+            "id_from": 334,
+            "rel": "属于",
+            "id_to": 322,
+            "from": "碳酸锂",
+            "to": "锂盐"
+        },
+        {
+            "from_type": "link",
+            "to_type": "link",
+            "id_from": 335,
+            "rel": "属于",
+            "id_to": 321,
+            "from": "钴矿",
+            "to": "原料矿产"
+        },
+        {
+            "from_type": "link",
+            "to_type": "link",
+            "id_from": 336,
+            "rel": "属于",
+            "id_to": 321,
+            "from": "锰矿",
+            "to": "原料矿产"
+        },
+        {
+            "from_type": "link",
+            "to_type": "link",
+            "id_from": 337,
+            "rel": "属于",
+            "id_to": 321,
+            "from": "镍矿",
+            "to": "原料矿产"
+        }
+    ],
+    "环节与公司": [
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 8,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "西藏城投",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 8,
+            "rel": "相关",
+            "id_to": 333,
+            "from": "西藏城投",
+            "to": "盐湖卤水"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 8,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "西藏城投",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 9,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "西藏珠峰",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 9,
+            "rel": "相关",
+            "id_to": 333,
+            "from": "西藏珠峰",
+            "to": "盐湖卤水"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 9,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "西藏珠峰",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 10,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "西藏矿业",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 10,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "西藏矿业",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 12,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "雅化集团",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 12,
+            "rel": "相关",
+            "id_to": 331,
+            "from": "雅化集团",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 12,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "雅化集团",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 13,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "天齐锂业",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 13,
+            "rel": "相关",
+            "id_to": 331,
+            "from": "天齐锂业",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 13,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "天齐锂业",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 23,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "盛新锂能",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 23,
+            "rel": "相关",
+            "id_to": 331,
+            "from": "盛新锂能",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 23,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "盛新锂能",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 26,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "川能动力",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 26,
+            "rel": "相关",
+            "id_to": 331,
+            "from": "川能动力",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 26,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "川能动力",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 34,
+            "rel": "相关",
+            "id_to": 333,
+            "from": "蓝晓科技",
+            "to": "盐湖卤水"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 34,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "蓝晓科技",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 37,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "盐湖股份",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 37,
+            "rel": "相关",
+            "id_to": 333,
+            "from": "盐湖股份",
+            "to": "盐湖卤水"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 37,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "盐湖股份",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 38,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "藏格矿业",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 38,
+            "rel": "相关",
+            "id_to": 333,
+            "from": "藏格矿业",
+            "to": "盐湖卤水"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 38,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "藏格矿业",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 106,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "兆新股份",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 106,
+            "rel": "相关",
+            "id_to": 331,
+            "from": "兆新股份",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 106,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "兆新股份",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 124,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "光华科技",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 142,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "融捷股份",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 142,
+            "rel": "相关",
+            "id_to": 331,
+            "from": "融捷股份",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 142,
+            "rel": "相关",
+            "id_to": 337,
+            "from": "融捷股份",
+            "to": "镍矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 142,
+            "rel": "相关",
+            "id_to": 335,
+            "from": "融捷股份",
+            "to": "钴矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 142,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "融捷股份",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 182,
+            "rel": "相关",
+            "id_to": 331,
+            "from": "永兴材料",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 182,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "永兴材料",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 198,
+            "rel": "相关",
+            "id_to": 335,
+            "from": "鹏欣资源",
+            "to": "钴矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 214,
+            "rel": "相关",
+            "id_to": 335,
+            "from": "江西铜业",
+            "to": "钴矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 216,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "江特电机",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 216,
+            "rel": "相关",
+            "id_to": 331,
+            "from": "江特电机",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 216,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "江特电机",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 217,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "赣锋锂业",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 217,
+            "rel": "相关",
+            "id_to": 331,
+            "from": "赣锋锂业",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 217,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "赣锋锂业",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 240,
+            "rel": "相关",
+            "id_to": 334,
+            "from": "兴业股份",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 251,
+            "rel": "相关",
+            "id_to": 332,
+            "from": "江苏国泰",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 256,
+            "rel": "相关",
+            "id_to": 333,
+            "from": "久吾高科",
+            "to": "盐湖卤水"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 263,
+            "rel": "相关",
+            "id_to": 337,
+            "from": "盛屯矿业",
+            "to": "镍矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 263,
+            "rel": "相关",
+            "id_to": 335,
+            "from": "盛屯矿业",
+            "to": "钴矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "link",
+            "id_from": 273,
+            "rel": "相关",
+            "id_to": 335,
+            "from": "铜陵有色",
+            "to": "钴矿"
+        }
+    ],
+    "环节与产品": [
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 320,
+            "rel": "相关产品",
+            "id_to": 2224,
+            "from": "上游（原材料）",
+            "to": "金属锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 320,
+            "rel": "相关产品",
+            "id_to": 2160,
+            "from": "上游（原材料）",
+            "to": "锂类"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 320,
+            "rel": "相关产品",
+            "id_to": 1901,
+            "from": "上游（原材料）",
+            "to": "锂材"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 320,
+            "rel": "相关产品",
+            "id_to": 1805,
+            "from": "上游（原材料）",
+            "to": "锂电池化学品"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 320,
+            "rel": "相关产品",
+            "id_to": 1721,
+            "from": "上游（原材料）",
+            "to": "金属锂系列"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 320,
+            "rel": "相关产品",
+            "id_to": 1568,
+            "from": "上游（原材料）",
+            "to": "锂化合物"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 320,
+            "rel": "相关产品",
+            "id_to": 1297,
+            "from": "上游（原材料）",
+            "to": "锂业"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 320,
+            "rel": "相关产品",
+            "id_to": 1121,
+            "from": "上游（原材料）",
+            "to": "锂离子电池用材料"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 321,
+            "rel": "相关产品",
+            "id_to": 1585,
+            "from": "原料矿产",
+            "to": "锂云母"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 3810,
+            "from": "锂盐",
+            "to": "磷酸锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 3468,
+            "from": "锂盐",
+            "to": "深加工锂化合物系列"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 3280,
+            "from": "锂盐",
+            "to": "锂衍生"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 2934,
+            "from": "锂盐",
+            "to": "锂化物系列"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 2859,
+            "from": "锂盐",
+            "to": "锂盐加工销售业务"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 2730,
+            "from": "锂盐",
+            "to": "氯化锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 2548,
+            "from": "锂盐",
+            "to": "无水氯化锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 1241,
+            "from": "锂盐",
+            "to": "氟化锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 653,
+            "from": "锂盐",
+            "to": "丁基锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 4129,
+            "from": "锂盐",
+            "to": "锂盐加工"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 4022,
+            "from": "锂盐",
+            "to": "锂盐"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 1703,
+            "from": "锂盐",
+            "to": "锂盐系列"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 322,
+            "rel": "相关产品",
+            "id_to": 1173,
+            "from": "锂盐",
+            "to": "锂盐销售"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 331,
+            "rel": "相关产品",
+            "id_to": 1719,
+            "from": "氢氧化锂",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 332,
+            "rel": "相关产品",
+            "id_to": 1834,
+            "from": "锂矿",
+            "to": "锂精矿销售"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 332,
+            "rel": "相关产品",
+            "id_to": 564,
+            "from": "锂矿",
+            "to": "锂精矿"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 332,
+            "rel": "相关产品",
+            "id_to": 2468,
+            "from": "锂矿",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 332,
+            "rel": "相关产品",
+            "id_to": 2022,
+            "from": "锂矿",
+            "to": "锂矿采选"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 334,
+            "rel": "相关产品",
+            "id_to": 4135,
+            "from": "碳酸锂",
+            "to": "工业级碳酸锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 334,
+            "rel": "相关产品",
+            "id_to": 2439,
+            "from": "碳酸锂",
+            "to": "碳酸锂及锂系列产品"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 334,
+            "rel": "相关产品",
+            "id_to": 1722,
+            "from": "碳酸锂",
+            "to": "电池级碳酸锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 334,
+            "rel": "相关产品",
+            "id_to": 3651,
+            "from": "碳酸锂",
+            "to": "高纯碳酸锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 334,
+            "rel": "相关产品",
+            "id_to": 3441,
+            "from": "碳酸锂",
+            "to": "碳酸锂系列"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 334,
+            "rel": "相关产品",
+            "id_to": 1985,
+            "from": "碳酸锂",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 335,
+            "rel": "相关产品",
+            "id_to": 2798,
+            "from": "钴矿",
+            "to": "钴"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 336,
+            "rel": "相关产品",
+            "id_to": 538,
+            "from": "锰矿",
+            "to": "锰矿"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 337,
+            "rel": "相关产品",
+            "id_to": 3427,
+            "from": "镍矿",
+            "to": "镍"
+        },
+        {
+            "from_type": "link",
+            "to_type": "product",
+            "id_from": 337,
+            "rel": "相关产品",
+            "id_to": 737,
+            "from": "镍矿",
+            "to": "镍矿"
+        }
+    ],
+    "公司与供应商": [
+        {
+            "from_type": "company",
+            "to_type": "company",
+            "id_from": 13,
+            "rel": "客户",
+            "id_to": 23,
+            "from": "天齐锂业",
+            "to": "盛新锂能"
+        },
+        {
+            "from_type": "company",
+            "to_type": "company",
+            "id_from": 23,
+            "rel": "供应商",
+            "id_to": 13,
+            "from": "盛新锂能",
+            "to": "天齐锂业"
+        },
+        {
+            "from_type": "company",
+            "to_type": "company",
+            "id_from": 42,
+            "rel": "客户",
+            "id_to": 10,
+            "from": "白银有色",
+            "to": "西藏矿业"
+        },
+        {
+            "from_type": "company",
+            "to_type": "company",
+            "id_from": 42,
+            "rel": "供应商",
+            "id_to": 10,
+            "from": "白银有色",
+            "to": "西藏矿业"
+        },
+        {
+            "from_type": "company",
+            "to_type": "company",
+            "id_from": 197,
+            "rel": "供应商",
+            "id_to": 142,
+            "from": "中化国际",
+            "to": "融捷股份"
+        },
+        {
+            "from_type": "company",
+            "to_type": "company",
+            "id_from": 214,
+            "rel": "供应商",
+            "id_to": 124,
+            "from": "江西铜业",
+            "to": "光华科技"
+        },
+        {
+            "from_type": "company",
+            "to_type": "company",
+            "id_from": 256,
+            "rel": "供应商",
+            "id_to": 10,
+            "from": "久吾高科",
+            "to": "西藏矿业"
+        },
+        {
+            "from_type": "company",
+            "to_type": "company",
+            "id_from": 319,
+            "rel": "客户",
+            "id_to": 217,
+            "from": "宏源药业",
+            "to": "赣锋锂业"
+        },
+        {
+            "from_type": "company",
+            "to_type": "company",
+            "id_from": 319,
+            "rel": "供应商",
+            "id_to": 217,
+            "from": "宏源药业",
+            "to": "赣锋锂业"
+        }
+    ],
+    "公司与产品": [
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 10,
+            "rel": "主营产品",
+            "id_to": 2160,
+            "from": "西藏矿业",
+            "to": "锂类"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 12,
+            "rel": "主营产品",
+            "id_to": 1297,
+            "from": "雅化集团",
+            "to": "锂业"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 12,
+            "rel": "主营产品",
+            "id_to": 4022,
+            "from": "雅化集团",
+            "to": "锂盐"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 12,
+            "rel": "主营产品",
+            "id_to": 2439,
+            "from": "雅化集团",
+            "to": "碳酸锂及锂系列产品"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 13,
+            "rel": "主营产品",
+            "id_to": 1722,
+            "from": "天齐锂业",
+            "to": "电池级碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 13,
+            "rel": "主营产品",
+            "id_to": 2548,
+            "from": "天齐锂业",
+            "to": "无水氯化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 13,
+            "rel": "主营产品",
+            "id_to": 564,
+            "from": "天齐锂业",
+            "to": "锂精矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 13,
+            "rel": "主营产品",
+            "id_to": 1719,
+            "from": "天齐锂业",
+            "to": "氢氧化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 13,
+            "rel": "主营产品",
+            "id_to": 4135,
+            "from": "天齐锂业",
+            "to": "工业级碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 13,
+            "rel": "主营产品",
+            "id_to": 2468,
+            "from": "天齐锂业",
+            "to": "锂矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 13,
+            "rel": "主营产品",
+            "id_to": 3651,
+            "from": "天齐锂业",
+            "to": "高纯碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 13,
+            "rel": "主营产品",
+            "id_to": 4022,
+            "from": "天齐锂业",
+            "to": "锂盐"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 13,
+            "rel": "主营产品",
+            "id_to": 3280,
+            "from": "天齐锂业",
+            "to": "锂衍生"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 13,
+            "rel": "主营产品",
+            "id_to": 1568,
+            "from": "天齐锂业",
+            "to": "锂化合物"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 23,
+            "rel": "主营产品",
+            "id_to": 2859,
+            "from": "盛新锂能",
+            "to": "锂盐加工销售业务"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 37,
+            "rel": "主营产品",
+            "id_to": 3810,
+            "from": "盐湖股份",
+            "to": "磷酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 37,
+            "rel": "主营产品",
+            "id_to": 2224,
+            "from": "盐湖股份",
+            "to": "金属锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 37,
+            "rel": "主营产品",
+            "id_to": 1985,
+            "from": "盐湖股份",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 38,
+            "rel": "主营产品",
+            "id_to": 1985,
+            "from": "藏格矿业",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 64,
+            "rel": "主营产品",
+            "id_to": 737,
+            "from": "海南矿业",
+            "to": "镍矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 142,
+            "rel": "主营产品",
+            "id_to": 4129,
+            "from": "融捷股份",
+            "to": "锂盐加工"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 142,
+            "rel": "主营产品",
+            "id_to": 1173,
+            "from": "融捷股份",
+            "to": "锂盐销售"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 142,
+            "rel": "主营产品",
+            "id_to": 1834,
+            "from": "融捷股份",
+            "to": "锂精矿销售"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 157,
+            "rel": "主营产品",
+            "id_to": 2934,
+            "from": "天铁股份",
+            "to": "锂化物系列"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 172,
+            "rel": "主营产品",
+            "id_to": 1985,
+            "from": "凯恩股份",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 182,
+            "rel": "主营产品",
+            "id_to": 2022,
+            "from": "永兴材料",
+            "to": "锂矿采选"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 182,
+            "rel": "主营产品",
+            "id_to": 4022,
+            "from": "永兴材料",
+            "to": "锂盐"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 198,
+            "rel": "主营产品",
+            "id_to": 538,
+            "from": "鹏欣资源",
+            "to": "锰矿"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 216,
+            "rel": "主营产品",
+            "id_to": 1985,
+            "from": "江特电机",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 216,
+            "rel": "主营产品",
+            "id_to": 1585,
+            "from": "江特电机",
+            "to": "锂云母"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 216,
+            "rel": "主营产品",
+            "id_to": 1121,
+            "from": "江特电机",
+            "to": "锂离子电池用材料"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 217,
+            "rel": "主营产品",
+            "id_to": 3441,
+            "from": "赣锋锂业",
+            "to": "碳酸锂系列"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 217,
+            "rel": "主营产品",
+            "id_to": 2730,
+            "from": "赣锋锂业",
+            "to": "氯化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 217,
+            "rel": "主营产品",
+            "id_to": 653,
+            "from": "赣锋锂业",
+            "to": "丁基锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 217,
+            "rel": "主营产品",
+            "id_to": 1703,
+            "from": "赣锋锂业",
+            "to": "锂盐系列"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 217,
+            "rel": "主营产品",
+            "id_to": 1901,
+            "from": "赣锋锂业",
+            "to": "锂材"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 217,
+            "rel": "主营产品",
+            "id_to": 1721,
+            "from": "赣锋锂业",
+            "to": "金属锂系列"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 217,
+            "rel": "主营产品",
+            "id_to": 1241,
+            "from": "赣锋锂业",
+            "to": "氟化锂"
+        },
+        {
+            "from_type": "company",
+            "to_type": "product",
+            "id_from": 217,
+            "rel": "主营产品",
+            "id_to": 3468,
+            "from": "赣锋锂业",
+            "to": "深加工锂化合物系列"
+        }
+    ],
+    "公司与新闻": [],
+    "产品与产品": [
+        {
+            "from_type": "product",
+            "to_type": "product",
+            "id_from": 1585,
+            "rel": "下游产品",
+            "id_to": 1985,
+            "from": "锂云母",
+            "to": "碳酸锂"
+        },
+        {
+            "from_type": "product",
+            "to_type": "product",
+            "id_from": 1985,
+            "rel": "上游材料",
+            "id_to": 1585,
+            "from": "碳酸锂",
+            "to": "锂云母"
+        }
+    ]
+}

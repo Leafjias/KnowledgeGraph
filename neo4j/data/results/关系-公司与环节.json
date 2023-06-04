@@ -1,0 +1,4016 @@
+[
+    {
+        "from": "诺德股份",
+        "to": "铜箔材",
+        "id_from": 315,
+        "id_to": 323,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "铜冠铜箔",
+        "to": "铜箔材",
+        "id_from": 279,
+        "id_to": 323,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "铜陵有色",
+        "to": "铜箔材",
+        "id_from": 273,
+        "id_to": 323,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "嘉元科技",
+        "to": "铜箔材",
+        "id_from": 126,
+        "id_to": 323,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中一科技",
+        "to": "铜箔材",
+        "id_from": 56,
+        "id_to": 323,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "远东股份",
+        "to": "铜箔材",
+        "id_from": 36,
+        "id_to": 323,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "晶瑞电材",
+        "to": "分散剂",
+        "id_from": 246,
+        "id_to": 324,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "泰和科技",
+        "to": "分散剂",
+        "id_from": 204,
+        "id_to": 324,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "紫江企业",
+        "to": "锂电池铝塑膜",
+        "id_from": 199,
+        "id_to": 325,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "璞泰来",
+        "to": "锂电池铝塑膜",
+        "id_from": 195,
+        "id_to": 325,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "新纶新材",
+        "to": "锂电池铝塑膜",
+        "id_from": 104,
+        "id_to": 325,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宁德时代",
+        "to": "锂电池粘结剂",
+        "id_from": 266,
+        "id_to": 326,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "晶瑞电材",
+        "to": "锂电池粘结剂",
+        "id_from": 246,
+        "id_to": 326,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "璞泰来",
+        "to": "锂电池粘结剂",
+        "id_from": 195,
+        "id_to": 326,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "巨化股份",
+        "to": "锂电池粘结剂",
+        "id_from": 164,
+        "id_to": 326,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "广汽集团",
+        "to": "锂电池粘结剂",
+        "id_from": 138,
+        "id_to": 326,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中矿资源",
+        "to": "氢氧化锂",
+        "id_from": 303,
+        "id_to": 331,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天奇股份",
+        "to": "氢氧化锂",
+        "id_from": 235,
+        "id_to": 331,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "氢氧化锂",
+        "id_from": 217,
+        "id_to": 331,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "江特电机",
+        "to": "氢氧化锂",
+        "id_from": 216,
+        "id_to": 331,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "永兴材料",
+        "to": "氢氧化锂",
+        "id_from": 182,
+        "id_to": 331,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "融捷股份",
+        "to": "氢氧化锂",
+        "id_from": 142,
+        "id_to": 331,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "兆新股份",
+        "to": "氢氧化锂",
+        "id_from": 106,
+        "id_to": 331,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "川能动力",
+        "to": "氢氧化锂",
+        "id_from": 26,
+        "id_to": 331,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "盛新锂能",
+        "to": "氢氧化锂",
+        "id_from": 23,
+        "id_to": 331,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "氢氧化锂",
+        "id_from": 13,
+        "id_to": 331,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "雅化集团",
+        "to": "氢氧化锂",
+        "id_from": 12,
+        "id_to": 331,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "*ST新海",
+        "to": "锂矿",
+        "id_from": 252,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "江苏国泰",
+        "to": "锂矿",
+        "id_from": 251,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "百川股份",
+        "to": "锂矿",
+        "id_from": 234,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "锂矿",
+        "id_from": 217,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "江特电机",
+        "to": "锂矿",
+        "id_from": 216,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "永兴材料",
+        "to": "锂矿",
+        "id_from": 182,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科达制造",
+        "to": "锂矿",
+        "id_from": 145,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "融捷股份",
+        "to": "锂矿",
+        "id_from": 142,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "光华科技",
+        "to": "锂矿",
+        "id_from": 124,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "兆新股份",
+        "to": "锂矿",
+        "id_from": 106,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "贤丰控股",
+        "to": "锂矿",
+        "id_from": 67,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "藏格矿业",
+        "to": "锂矿",
+        "id_from": 38,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "盐湖股份",
+        "to": "锂矿",
+        "id_from": 37,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "川能动力",
+        "to": "锂矿",
+        "id_from": 26,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "盛新锂能",
+        "to": "锂矿",
+        "id_from": 23,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "锂矿",
+        "id_from": 13,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "雅化集团",
+        "to": "锂矿",
+        "id_from": 12,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "西藏矿业",
+        "to": "锂矿",
+        "id_from": 10,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "西藏珠峰",
+        "to": "锂矿",
+        "id_from": 9,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "西藏城投",
+        "to": "锂矿",
+        "id_from": 8,
+        "id_to": 332,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "久吾高科",
+        "to": "盐湖卤水",
+        "id_from": 256,
+        "id_to": 333,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "藏格矿业",
+        "to": "盐湖卤水",
+        "id_from": 38,
+        "id_to": 333,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "盐湖股份",
+        "to": "盐湖卤水",
+        "id_from": 37,
+        "id_to": 333,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "蓝晓科技",
+        "to": "盐湖卤水",
+        "id_from": 34,
+        "id_to": 333,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "西藏珠峰",
+        "to": "盐湖卤水",
+        "id_from": 9,
+        "id_to": 333,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "西藏城投",
+        "to": "盐湖卤水",
+        "id_from": 8,
+        "id_to": 333,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中矿资源",
+        "to": "碳酸锂",
+        "id_from": 303,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天华超净",
+        "to": "碳酸锂",
+        "id_from": 247,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "兴业股份",
+        "to": "碳酸锂",
+        "id_from": 240,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天奇股份",
+        "to": "碳酸锂",
+        "id_from": 235,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "碳酸锂",
+        "id_from": 217,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "江特电机",
+        "to": "碳酸锂",
+        "id_from": 216,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科达制造",
+        "to": "碳酸锂",
+        "id_from": 145,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "融捷股份",
+        "to": "碳酸锂",
+        "id_from": 142,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "兆新股份",
+        "to": "碳酸锂",
+        "id_from": 106,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "贤丰控股",
+        "to": "碳酸锂",
+        "id_from": 67,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "藏格矿业",
+        "to": "碳酸锂",
+        "id_from": 38,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "盐湖股份",
+        "to": "碳酸锂",
+        "id_from": 37,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "蓝晓科技",
+        "to": "碳酸锂",
+        "id_from": 34,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "红星发展",
+        "to": "碳酸锂",
+        "id_from": 31,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "川能动力",
+        "to": "碳酸锂",
+        "id_from": 26,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "盛新锂能",
+        "to": "碳酸锂",
+        "id_from": 23,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "碳酸锂",
+        "id_from": 13,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "雅化集团",
+        "to": "碳酸锂",
+        "id_from": 12,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "西藏矿业",
+        "to": "碳酸锂",
+        "id_from": 10,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "西藏珠峰",
+        "to": "碳酸锂",
+        "id_from": 9,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "西藏城投",
+        "to": "碳酸锂",
+        "id_from": 8,
+        "id_to": 334,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "铜陵有色",
+        "to": "钴矿",
+        "id_from": 273,
+        "id_to": 335,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "厦门钨业",
+        "to": "钴矿",
+        "id_from": 264,
+        "id_to": 335,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "盛屯矿业",
+        "to": "钴矿",
+        "id_from": 263,
+        "id_to": 335,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "江西铜业",
+        "to": "钴矿",
+        "id_from": 214,
+        "id_to": 335,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "鹏欣资源",
+        "to": "钴矿",
+        "id_from": 198,
+        "id_to": 335,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "融捷股份",
+        "to": "钴矿",
+        "id_from": 142,
+        "id_to": 335,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "红星发展",
+        "to": "锰矿",
+        "id_from": 31,
+        "id_to": 336,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "盛屯矿业",
+        "to": "镍矿",
+        "id_from": 263,
+        "id_to": 337,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "融捷股份",
+        "to": "镍矿",
+        "id_from": 142,
+        "id_to": 337,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "当升科技",
+        "to": "三元材料",
+        "id_from": 302,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "多氟多",
+        "to": "三元材料",
+        "id_from": 290,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天力锂能",
+        "to": "三元材料",
+        "id_from": 287,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宁德时代",
+        "to": "三元材料",
+        "id_from": 266,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "厦钨新能",
+        "to": "三元材料",
+        "id_from": 262,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "鼎胜新材",
+        "to": "三元材料",
+        "id_from": 226,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "三元材料",
+        "id_from": 167,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "容百科技",
+        "to": "三元材料",
+        "id_from": 165,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "格林美",
+        "to": "三元材料",
+        "id_from": 105,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "贝特瑞",
+        "to": "三元材料",
+        "id_from": 73,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "万润新能",
+        "to": "三元材料",
+        "id_from": 62,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "湖南裕能",
+        "to": "三元材料",
+        "id_from": 51,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "长远锂科",
+        "to": "三元材料",
+        "id_from": 44,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "振华新材",
+        "to": "三元材料",
+        "id_from": 29,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "三元材料",
+        "id_from": 13,
+        "id_to": 340,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "当升科技",
+        "to": "磷酸铁锂",
+        "id_from": 302,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "多氟多",
+        "to": "磷酸铁锂",
+        "id_from": 290,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天力锂能",
+        "to": "磷酸铁锂",
+        "id_from": 287,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "国轩高科",
+        "to": "磷酸铁锂",
+        "id_from": 278,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "坤彩科技",
+        "to": "磷酸铁锂",
+        "id_from": 267,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宁德时代",
+        "to": "磷酸铁锂",
+        "id_from": 266,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "厦钨新能",
+        "to": "磷酸铁锂",
+        "id_from": 262,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "龙蟠科技",
+        "to": "磷酸铁锂",
+        "id_from": 255,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "派能科技",
+        "to": "磷酸铁锂",
+        "id_from": 194,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "南都电源",
+        "to": "磷酸铁锂",
+        "id_from": 190,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "容百科技",
+        "to": "磷酸铁锂",
+        "id_from": 165,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天赐材料",
+        "to": "磷酸铁锂",
+        "id_from": 141,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "比亚迪",
+        "to": "磷酸铁锂",
+        "id_from": 102,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "德方纳米",
+        "to": "磷酸铁锂",
+        "id_from": 84,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "贝特瑞",
+        "to": "磷酸铁锂",
+        "id_from": 73,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "万润新能",
+        "to": "磷酸铁锂",
+        "id_from": 62,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "长远锂科",
+        "to": "磷酸铁锂",
+        "id_from": 44,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "振华新材",
+        "to": "磷酸铁锂",
+        "id_from": 29,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "安达科技",
+        "to": "磷酸铁锂",
+        "id_from": 28,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "磷酸铁锂",
+        "id_from": 13,
+        "id_to": 341,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "当升科技",
+        "to": "钴酸锂",
+        "id_from": 302,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "钴酸锂",
+        "id_from": 167,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "鹏辉能源",
+        "to": "钴酸锂",
+        "id_from": 140,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "钴酸锂",
+        "id_from": 136,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中兴通讯",
+        "to": "钴酸锂",
+        "id_from": 114,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "格林美",
+        "to": "钴酸锂",
+        "id_from": 105,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "雄韬股份",
+        "to": "钴酸锂",
+        "id_from": 101,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "超频三",
+        "to": "钴酸锂",
+        "id_from": 85,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "风华高科",
+        "to": "钴酸锂",
+        "id_from": 71,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "格力电器",
+        "to": "钴酸锂",
+        "id_from": 68,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "珠海冠宇",
+        "to": "钴酸锂",
+        "id_from": 66,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "长远锂科",
+        "to": "钴酸锂",
+        "id_from": 44,
+        "id_to": 342,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "当升科技",
+        "to": "锰酸锂",
+        "id_from": 302,
+        "id_to": 343,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "多氟多",
+        "to": "锰酸锂",
+        "id_from": 290,
+        "id_to": 343,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "纳川股份",
+        "to": "锰酸锂",
+        "id_from": 265,
+        "id_to": 343,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "厦钨新能",
+        "to": "锰酸锂",
+        "id_from": 262,
+        "id_to": 343,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "金鹰股份",
+        "to": "锰酸锂",
+        "id_from": 155,
+        "id_to": 343,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "超频三",
+        "to": "锰酸锂",
+        "id_from": 85,
+        "id_to": 343,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "湖南海利",
+        "to": "锰酸锂",
+        "id_from": 45,
+        "id_to": 343,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "雅化集团",
+        "to": "锰酸锂",
+        "id_from": 12,
+        "id_to": 343,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "当升科技",
+        "to": "镍酸锂",
+        "id_from": 302,
+        "id_to": 344,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "当升科技",
+        "to": "富锂锰基固溶体",
+        "id_from": 302,
+        "id_to": 345,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宝泰隆",
+        "to": "人造石墨",
+        "id_from": 318,
+        "id_to": 347,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "尚太科技",
+        "to": "人造石墨",
+        "id_from": 292,
+        "id_to": 347,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "易成新能",
+        "to": "人造石墨",
+        "id_from": 288,
+        "id_to": 347,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "璞泰来",
+        "to": "人造石墨",
+        "id_from": 195,
+        "id_to": 347,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "人造石墨",
+        "id_from": 167,
+        "id_to": 347,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科达制造",
+        "to": "人造石墨",
+        "id_from": 145,
+        "id_to": 347,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "华控赛格",
+        "to": "人造石墨",
+        "id_from": 112,
+        "id_to": 347,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "翔丰华",
+        "to": "人造石墨",
+        "id_from": 83,
+        "id_to": 347,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "珠海冠宇",
+        "to": "人造石墨",
+        "id_from": 66,
+        "id_to": 347,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中科电气",
+        "to": "人造石墨",
+        "id_from": 50,
+        "id_to": 347,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宝泰隆",
+        "to": "天然石墨",
+        "id_from": 318,
+        "id_to": 348,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "璞泰来",
+        "to": "天然石墨",
+        "id_from": 195,
+        "id_to": 348,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "天然石墨",
+        "id_from": 167,
+        "id_to": 348,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "翔丰华",
+        "to": "天然石墨",
+        "id_from": 83,
+        "id_to": 348,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "贝特瑞",
+        "to": "天然石墨",
+        "id_from": 73,
+        "id_to": 348,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中科电气",
+        "to": "天然石墨",
+        "id_from": 50,
+        "id_to": 348,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "尚太科技",
+        "to": "改性石墨",
+        "id_from": 292,
+        "id_to": 349,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "易成新能",
+        "to": "改性石墨",
+        "id_from": 288,
+        "id_to": 349,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "璞泰来",
+        "to": "改性石墨",
+        "id_from": 195,
+        "id_to": 349,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "改性石墨",
+        "id_from": 167,
+        "id_to": 349,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "翔丰华",
+        "to": "改性石墨",
+        "id_from": 83,
+        "id_to": 349,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "贝特瑞",
+        "to": "改性石墨",
+        "id_from": 73,
+        "id_to": 349,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中科电气",
+        "to": "改性石墨",
+        "id_from": 50,
+        "id_to": 349,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天奈科技",
+        "to": "碳纳米管",
+        "id_from": 225,
+        "id_to": 350,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "捷邦科技",
+        "to": "碳纳米管",
+        "id_from": 152,
+        "id_to": 350,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "道氏技术",
+        "to": "碳纳米管",
+        "id_from": 131,
+        "id_to": 350,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "德方纳米",
+        "to": "碳纳米管",
+        "id_from": 84,
+        "id_to": 350,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "格力电器",
+        "to": "碳纳米管",
+        "id_from": 68,
+        "id_to": 350,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "硅宝科技",
+        "to": "碳纳米管",
+        "id_from": 20,
+        "id_to": 350,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宝泰隆",
+        "to": "石墨烯",
+        "id_from": 318,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "东旭光电",
+        "to": "石墨烯",
+        "id_from": 293,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "坤彩科技",
+        "to": "石墨烯",
+        "id_from": 267,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天奈科技",
+        "to": "石墨烯",
+        "id_from": 225,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "圣泉集团",
+        "to": "石墨烯",
+        "id_from": 208,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "维科技术",
+        "to": "石墨烯",
+        "id_from": 168,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天际股份",
+        "to": "石墨烯",
+        "id_from": 123,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "德方纳米",
+        "to": "石墨烯",
+        "id_from": 84,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "翔丰华",
+        "to": "石墨烯",
+        "id_from": 83,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "鸿富瀚",
+        "to": "石墨烯",
+        "id_from": 81,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "贝特瑞",
+        "to": "石墨烯",
+        "id_from": 73,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "方大炭素",
+        "to": "石墨烯",
+        "id_from": 41,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "西藏城投",
+        "to": "石墨烯",
+        "id_from": 8,
+        "id_to": 351,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "尚太科技",
+        "to": "硅碳负极",
+        "id_from": 292,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "国轩高科",
+        "to": "硅碳负极",
+        "id_from": 278,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宁德时代",
+        "to": "硅碳负极",
+        "id_from": 266,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天奈科技",
+        "to": "硅碳负极",
+        "id_from": 225,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "南都电源",
+        "to": "硅碳负极",
+        "id_from": 190,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "硅碳负极",
+        "id_from": 167,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科达制造",
+        "to": "硅碳负极",
+        "id_from": 145,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天赐材料",
+        "to": "硅碳负极",
+        "id_from": 141,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "硅碳负极",
+        "id_from": 136,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "比亚迪",
+        "to": "硅碳负极",
+        "id_from": 102,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "翔丰华",
+        "to": "硅碳负极",
+        "id_from": 83,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "珠海冠宇",
+        "to": "硅碳负极",
+        "id_from": 66,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "万润新能",
+        "to": "硅碳负极",
+        "id_from": 62,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "硅宝科技",
+        "to": "硅碳负极",
+        "id_from": 20,
+        "id_to": 352,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "当升科技",
+        "to": "钛酸锂",
+        "id_from": 302,
+        "id_to": 353,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "海油发展",
+        "to": "钛酸锂",
+        "id_from": 299,
+        "id_to": 353,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "坤彩科技",
+        "to": "钛酸锂",
+        "id_from": 267,
+        "id_to": 353,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科达制造",
+        "to": "钛酸锂",
+        "id_from": 145,
+        "id_to": 353,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天赐材料",
+        "to": "钛酸锂",
+        "id_from": 141,
+        "id_to": 353,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "贝特瑞",
+        "to": "钛酸锂",
+        "id_from": 73,
+        "id_to": 353,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "格力电器",
+        "to": "钛酸锂",
+        "id_from": 68,
+        "id_to": 353,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "奥克股份",
+        "to": "电解液溶剂",
+        "id_from": 309,
+        "id_to": 355,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "华鲁恒升",
+        "to": "电解液溶剂",
+        "id_from": 212,
+        "id_to": 355,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "万顺新材",
+        "to": "电解液溶剂",
+        "id_from": 122,
+        "id_to": 355,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "立中集团",
+        "to": "六氟磷酸锂",
+        "id_from": 297,
+        "id_to": 357,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "多氟多",
+        "to": "六氟磷酸锂",
+        "id_from": 290,
+        "id_to": 357,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "滨化股份",
+        "to": "六氟磷酸锂",
+        "id_from": 213,
+        "id_to": 357,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "六氟磷酸锂",
+        "id_from": 167,
+        "id_to": 357,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "永太科技",
+        "to": "六氟磷酸锂",
+        "id_from": 159,
+        "id_to": 357,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天赐材料",
+        "to": "六氟磷酸锂",
+        "id_from": 141,
+        "id_to": 357,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天际股份",
+        "to": "六氟磷酸锂",
+        "id_from": 123,
+        "id_to": 357,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "新宙邦",
+        "to": "六氟磷酸锂",
+        "id_from": 96,
+        "id_to": 357,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "*ST必康",
+        "to": "六氟磷酸锂",
+        "id_from": 33,
+        "id_to": 357,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "立中集团",
+        "to": "双氟磺酰亚胺锂",
+        "id_from": 297,
+        "id_to": 358,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "多氟多",
+        "to": "双氟磺酰亚胺锂",
+        "id_from": 290,
+        "id_to": 358,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "永太科技",
+        "to": "双氟磺酰亚胺锂",
+        "id_from": 159,
+        "id_to": 358,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天赐材料",
+        "to": "双氟磺酰亚胺锂",
+        "id_from": 141,
+        "id_to": 358,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "新宙邦",
+        "to": "双氟磺酰亚胺锂",
+        "id_from": 96,
+        "id_to": 358,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "奥克股份",
+        "to": "耐高低温添加剂",
+        "id_from": 309,
+        "id_to": 360,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "华盛锂电",
+        "to": "耐高低温添加剂",
+        "id_from": 238,
+        "id_to": 360,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "永太科技",
+        "to": "耐高低温添加剂",
+        "id_from": 159,
+        "id_to": 360,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天赐材料",
+        "to": "耐高低温添加剂",
+        "id_from": 141,
+        "id_to": 360,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "新宙邦",
+        "to": "耐高低温添加剂",
+        "id_from": 96,
+        "id_to": 360,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "多氟多",
+        "to": "成膜添加剂",
+        "id_from": 290,
+        "id_to": 361,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "永太科技",
+        "to": "成膜添加剂",
+        "id_from": 159,
+        "id_to": 361,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天赐材料",
+        "to": "成膜添加剂",
+        "id_from": 141,
+        "id_to": 361,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "新宙邦",
+        "to": "成膜添加剂",
+        "id_from": 96,
+        "id_to": 361,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "新宙邦",
+        "to": "耐过充过放添加剂",
+        "id_from": 96,
+        "id_to": 363,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "万盛股份",
+        "to": "阻燃剂",
+        "id_from": 156,
+        "id_to": 364,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "沧州明珠",
+        "to": "聚烯烃",
+        "id_from": 294,
+        "id_to": 366,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中盐化工",
+        "to": "聚烯烃",
+        "id_from": 286,
+        "id_to": 366,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "万华化学",
+        "to": "聚烯烃",
+        "id_from": 206,
+        "id_to": 366,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "星源材质",
+        "to": "聚烯烃",
+        "id_from": 86,
+        "id_to": 366,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "北方华创",
+        "to": "搅拌机",
+        "id_from": 305,
+        "id_to": 368,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "先导智能",
+        "to": "搅拌机",
+        "id_from": 233,
+        "id_to": 368,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "金银河",
+        "to": "搅拌机",
+        "id_from": 146,
+        "id_to": 368,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赢合科技",
+        "to": "搅拌机",
+        "id_from": 92,
+        "id_to": 368,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中盐化工",
+        "to": "涂布机",
+        "id_from": 286,
+        "id_to": 369,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "先导智能",
+        "to": "涂布机",
+        "id_from": 233,
+        "id_to": 369,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "金银河",
+        "to": "涂布机",
+        "id_from": 146,
+        "id_to": 369,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科恒股份",
+        "to": "涂布机",
+        "id_from": 132,
+        "id_to": 369,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "大族激光",
+        "to": "涂布机",
+        "id_from": 110,
+        "id_to": 369,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赢合科技",
+        "to": "涂布机",
+        "id_from": 92,
+        "id_to": 369,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "北方华创",
+        "to": "分切机",
+        "id_from": 305,
+        "id_to": 371,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "先导智能",
+        "to": "分切机",
+        "id_from": 233,
+        "id_to": 371,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杭可科技",
+        "to": "分切机",
+        "id_from": 184,
+        "id_to": 371,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "金银河",
+        "to": "分切机",
+        "id_from": 146,
+        "id_to": 371,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赢合科技",
+        "to": "分切机",
+        "id_from": 92,
+        "id_to": 371,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宁德时代",
+        "to": "卷绕机",
+        "id_from": 266,
+        "id_to": 372,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中天科技",
+        "to": "卷绕机",
+        "id_from": 254,
+        "id_to": 372,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "先导智能",
+        "to": "卷绕机",
+        "id_from": 233,
+        "id_to": 372,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "利元亨",
+        "to": "卷绕机",
+        "id_from": 135,
+        "id_to": 372,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赢合科技",
+        "to": "卷绕机",
+        "id_from": 92,
+        "id_to": 372,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "新益昌",
+        "to": "卷绕机",
+        "id_from": 77,
+        "id_to": 372,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "先导智能",
+        "to": "叠片机",
+        "id_from": 233,
+        "id_to": 373,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "利元亨",
+        "to": "叠片机",
+        "id_from": 135,
+        "id_to": 373,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科瑞技术",
+        "to": "叠片机",
+        "id_from": 97,
+        "id_to": 373,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赢合科技",
+        "to": "叠片机",
+        "id_from": 92,
+        "id_to": 373,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "泰尔股份",
+        "to": "注液机",
+        "id_from": 274,
+        "id_to": 374,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "先导智能",
+        "to": "注液机",
+        "id_from": 233,
+        "id_to": 374,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "慈星股份",
+        "to": "注液机",
+        "id_from": 171,
+        "id_to": 374,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科恒股份",
+        "to": "注液机",
+        "id_from": 132,
+        "id_to": 374,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "大族激光",
+        "to": "注液机",
+        "id_from": 110,
+        "id_to": 374,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赢合科技",
+        "to": "注液机",
+        "id_from": 92,
+        "id_to": 374,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "北方华创",
+        "to": "混合设备",
+        "id_from": 305,
+        "id_to": 375,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "金银河",
+        "to": "混合设备",
+        "id_from": 146,
+        "id_to": 375,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赢合科技",
+        "to": "混合设备",
+        "id_from": 92,
+        "id_to": 375,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "先导智能",
+        "to": "干燥设备",
+        "id_from": 233,
+        "id_to": 376,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杭可科技",
+        "to": "锂电化成及检测设备（系统）",
+        "id_from": 184,
+        "id_to": 378,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "金冠股份",
+        "to": "锂电池隔膜",
+        "id_from": 316,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "乐凯胶片",
+        "to": "锂电池隔膜",
+        "id_from": 296,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "沧州明珠",
+        "to": "锂电池隔膜",
+        "id_from": 294,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "国轩高科",
+        "to": "锂电池隔膜",
+        "id_from": 278,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "苏常柴A",
+        "to": "锂电池隔膜",
+        "id_from": 261,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中材科技",
+        "to": "锂电池隔膜",
+        "id_from": 259,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "璞泰来",
+        "to": "锂电池隔膜",
+        "id_from": 195,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "佛塑科技",
+        "to": "锂电池隔膜",
+        "id_from": 149,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "鹏辉能源",
+        "to": "锂电池隔膜",
+        "id_from": 140,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "比亚迪",
+        "to": "锂电池隔膜",
+        "id_from": 102,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "星源材质",
+        "to": "锂电池隔膜",
+        "id_from": 86,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "长园集团",
+        "to": "锂电池隔膜",
+        "id_from": 79,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "贤丰控股",
+        "to": "锂电池隔膜",
+        "id_from": 67,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "恩捷股份",
+        "to": "锂电池隔膜",
+        "id_from": 5,
+        "id_to": 383,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "奥克股份",
+        "to": "锂电池电解液",
+        "id_from": 309,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中矿资源",
+        "to": "锂电池电解液",
+        "id_from": 303,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "多氟多",
+        "to": "锂电池电解液",
+        "id_from": 290,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "泰尔股份",
+        "to": "锂电池电解液",
+        "id_from": 274,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "冠城大通",
+        "to": "锂电池电解液",
+        "id_from": 268,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "江苏国泰",
+        "to": "锂电池电解液",
+        "id_from": 251,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "晶瑞电材",
+        "to": "锂电池电解液",
+        "id_from": 246,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "瑞泰新材",
+        "to": "锂电池电解液",
+        "id_from": 244,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "华盛锂电",
+        "to": "锂电池电解液",
+        "id_from": 238,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "滨化股份",
+        "to": "锂电池电解液",
+        "id_from": 213,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "胜华新材",
+        "to": "锂电池电解液",
+        "id_from": 210,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "锂电池电解液",
+        "id_from": 167,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "巨化股份",
+        "to": "锂电池电解液",
+        "id_from": 164,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "永太科技",
+        "to": "锂电池电解液",
+        "id_from": 159,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天赐材料",
+        "to": "锂电池电解液",
+        "id_from": 141,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "比亚迪",
+        "to": "锂电池电解液",
+        "id_from": 102,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "新宙邦",
+        "to": "锂电池电解液",
+        "id_from": 96,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "同益股份",
+        "to": "锂电池电解液",
+        "id_from": 90,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "长园集团",
+        "to": "锂电池电解液",
+        "id_from": 79,
+        "id_to": 384,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "合纵科技",
+        "to": "锂电池正极",
+        "id_from": 300,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天力锂能",
+        "to": "锂电池正极",
+        "id_from": 287,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中钢天源",
+        "to": "锂电池正极",
+        "id_from": 275,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宁德时代",
+        "to": "锂电池正极",
+        "id_from": 266,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "厦门钨业",
+        "to": "锂电池正极",
+        "id_from": 264,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "厦钨新能",
+        "to": "锂电池正极",
+        "id_from": 262,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中化国际",
+        "to": "锂电池正极",
+        "id_from": 197,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "锂电池正极",
+        "id_from": 167,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "国光电器",
+        "to": "锂电池正极",
+        "id_from": 143,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科恒股份",
+        "to": "锂电池正极",
+        "id_from": 132,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "芳源股份",
+        "to": "锂电池正极",
+        "id_from": 129,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "格林美",
+        "to": "锂电池正极",
+        "id_from": 105,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "贝特瑞",
+        "to": "锂电池正极",
+        "id_from": 73,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "风华高科",
+        "to": "锂电池正极",
+        "id_from": 71,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "长远锂科",
+        "to": "锂电池正极",
+        "id_from": 44,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "振华新材",
+        "to": "锂电池正极",
+        "id_from": 29,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中伟股份",
+        "to": "锂电池正极",
+        "id_from": 27,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天原股份",
+        "to": "锂电池正极",
+        "id_from": 11,
+        "id_to": 385,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宝泰隆",
+        "to": "锂电池负极",
+        "id_from": 318,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "诺德股份",
+        "to": "锂电池负极",
+        "id_from": 315,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "信德新材",
+        "to": "锂电池负极",
+        "id_from": 307,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "尚太科技",
+        "to": "锂电池负极",
+        "id_from": 292,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "易成新能",
+        "to": "锂电池负极",
+        "id_from": 288,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "坤彩科技",
+        "to": "锂电池负极",
+        "id_from": 267,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中天科技",
+        "to": "锂电池负极",
+        "id_from": 254,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天奈科技",
+        "to": "锂电池负极",
+        "id_from": 225,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "璞泰来",
+        "to": "锂电池负极",
+        "id_from": 195,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "锂电池负极",
+        "id_from": 167,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科达制造",
+        "to": "锂电池负极",
+        "id_from": 145,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "超华科技",
+        "to": "锂电池负极",
+        "id_from": 127,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "嘉元科技",
+        "to": "锂电池负极",
+        "id_from": 126,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中国宝安",
+        "to": "锂电池负极",
+        "id_from": 118,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "华控赛格",
+        "to": "锂电池负极",
+        "id_from": 112,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "国民技术",
+        "to": "锂电池负极",
+        "id_from": 95,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "同益股份",
+        "to": "锂电池负极",
+        "id_from": 90,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "超频三",
+        "to": "锂电池负极",
+        "id_from": 85,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "翔丰华",
+        "to": "锂电池负极",
+        "id_from": 83,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "贝特瑞",
+        "to": "锂电池负极",
+        "id_from": 73,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "风华高科",
+        "to": "锂电池负极",
+        "id_from": 71,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中科电气",
+        "to": "锂电池负极",
+        "id_from": 50,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "方大炭素",
+        "to": "锂电池负极",
+        "id_from": 41,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "硅宝科技",
+        "to": "锂电池负极",
+        "id_from": 20,
+        "id_to": 386,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "国轩高科",
+        "to": "磷酸铁锂电池",
+        "id_from": 278,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中钢天源",
+        "to": "磷酸铁锂电池",
+        "id_from": 275,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宁德时代",
+        "to": "磷酸铁锂电池",
+        "id_from": 266,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中天科技",
+        "to": "磷酸铁锂电池",
+        "id_from": 254,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "春兰股份",
+        "to": "磷酸铁锂电池",
+        "id_from": 236,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "圣阳股份",
+        "to": "磷酸铁锂电池",
+        "id_from": 207,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "航天机电",
+        "to": "磷酸铁锂电池",
+        "id_from": 200,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "派能科技",
+        "to": "磷酸铁锂电池",
+        "id_from": 194,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "南都电源",
+        "to": "磷酸铁锂电池",
+        "id_from": 190,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "横店东磁",
+        "to": "磷酸铁锂电池",
+        "id_from": 176,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "鹏辉能源",
+        "to": "磷酸铁锂电池",
+        "id_from": 140,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "磷酸铁锂电池",
+        "id_from": 136,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "光华科技",
+        "to": "磷酸铁锂电池",
+        "id_from": 124,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "比亚迪",
+        "to": "磷酸铁锂电池",
+        "id_from": 102,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "保力新",
+        "to": "磷酸铁锂电池",
+        "id_from": 35,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "四川长虹",
+        "to": "磷酸铁锂电池",
+        "id_from": 15,
+        "id_to": 388,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "多氟多",
+        "to": "三元电池",
+        "id_from": 290,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "国轩高科",
+        "to": "三元电池",
+        "id_from": 278,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宁德时代",
+        "to": "三元电池",
+        "id_from": 266,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "厦门钨业",
+        "to": "三元电池",
+        "id_from": 264,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中材科技",
+        "to": "三元电池",
+        "id_from": 259,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "孚能科技",
+        "to": "三元电池",
+        "id_from": 223,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天能股份",
+        "to": "三元电池",
+        "id_from": 180,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "横店东磁",
+        "to": "三元电池",
+        "id_from": 176,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "鹏辉能源",
+        "to": "三元电池",
+        "id_from": 140,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "三元电池",
+        "id_from": 136,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "芳源股份",
+        "to": "三元电池",
+        "id_from": 129,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "比亚迪",
+        "to": "三元电池",
+        "id_from": 102,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "雄韬股份",
+        "to": "三元电池",
+        "id_from": 101,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "珠海冠宇",
+        "to": "三元电池",
+        "id_from": 66,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "远东股份",
+        "to": "三元电池",
+        "id_from": 36,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "长虹能源",
+        "to": "三元电池",
+        "id_from": 14,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "长安汽车",
+        "to": "三元电池",
+        "id_from": 4,
+        "id_to": 389,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "当升科技",
+        "to": "固态锂电池",
+        "id_from": 302,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "东旭光电",
+        "to": "固态锂电池",
+        "id_from": 293,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "国轩高科",
+        "to": "固态锂电池",
+        "id_from": 278,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宁德时代",
+        "to": "固态锂电池",
+        "id_from": 266,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "厦钨新能",
+        "to": "固态锂电池",
+        "id_from": 262,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "固态锂电池",
+        "id_from": 217,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "丰元股份",
+        "to": "固态锂电池",
+        "id_from": 205,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "南都电源",
+        "to": "固态锂电池",
+        "id_from": 190,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天赐材料",
+        "to": "固态锂电池",
+        "id_from": 141,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "比亚迪",
+        "to": "固态锂电池",
+        "id_from": 102,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "赢合科技",
+        "to": "固态锂电池",
+        "id_from": 92,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "珠海冠宇",
+        "to": "固态锂电池",
+        "id_from": 66,
+        "id_to": 390,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "东旭光电",
+        "to": "新能源汽车",
+        "id_from": 293,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "星云股份",
+        "to": "新能源汽车",
+        "id_from": 269,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宁德时代",
+        "to": "新能源汽车",
+        "id_from": 266,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "*ST新海",
+        "to": "新能源汽车",
+        "id_from": 252,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "万祥科技",
+        "to": "新能源汽车",
+        "id_from": 245,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "可川科技",
+        "to": "新能源汽车",
+        "id_from": 243,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "先导智能",
+        "to": "新能源汽车",
+        "id_from": 233,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "腾远钴业",
+        "to": "新能源汽车",
+        "id_from": 224,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "江特电机",
+        "to": "新能源汽车",
+        "id_from": 216,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "微光股份",
+        "to": "新能源汽车",
+        "id_from": 191,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "南都电源",
+        "to": "新能源汽车",
+        "id_from": 190,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天能股份",
+        "to": "新能源汽车",
+        "id_from": 180,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "维科技术",
+        "to": "新能源汽车",
+        "id_from": 168,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "鹏辉能源",
+        "to": "新能源汽车",
+        "id_from": 140,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "广汽集团",
+        "to": "新能源汽车",
+        "id_from": 138,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "新能源汽车",
+        "id_from": 136,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "德赛电池",
+        "to": "新能源汽车",
+        "id_from": 115,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "比亚迪",
+        "to": "新能源汽车",
+        "id_from": 102,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科达利",
+        "to": "新能源汽车",
+        "id_from": 99,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "华锋股份",
+        "to": "新能源汽车",
+        "id_from": 70,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "珠海冠宇",
+        "to": "新能源汽车",
+        "id_from": 66,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中一科技",
+        "to": "新能源汽车",
+        "id_from": 56,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "达志科技",
+        "to": "新能源汽车",
+        "id_from": 53,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "保力新",
+        "to": "新能源汽车",
+        "id_from": 35,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "富临精工",
+        "to": "新能源汽车",
+        "id_from": 17,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "长安汽车",
+        "to": "新能源汽车",
+        "id_from": 4,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "力帆科技",
+        "to": "新能源汽车",
+        "id_from": 2,
+        "id_to": 392,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "国轩高科",
+        "to": "储能领域",
+        "id_from": 278,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "宁德时代",
+        "to": "储能领域",
+        "id_from": 266,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "林洋能源",
+        "to": "储能领域",
+        "id_from": 253,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "圣阳股份",
+        "to": "储能领域",
+        "id_from": 207,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "南都电源",
+        "to": "储能领域",
+        "id_from": 190,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "科陆电子",
+        "to": "储能领域",
+        "id_from": 109,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "比亚迪",
+        "to": "储能领域",
+        "id_from": 102,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "欣旺达",
+        "to": "储能领域",
+        "id_from": 94,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "华宝新能",
+        "to": "储能领域",
+        "id_from": 80,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中伟股份",
+        "to": "储能领域",
+        "id_from": 27,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "盛新锂能",
+        "to": "储能领域",
+        "id_from": 23,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "储能领域",
+        "id_from": 13,
+        "id_to": 393,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "胜利精密",
+        "to": "消费电子",
+        "id_from": 248,
+        "id_to": 394,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "万祥科技",
+        "to": "消费电子",
+        "id_from": 245,
+        "id_to": 394,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "可川科技",
+        "to": "消费电子",
+        "id_from": 243,
+        "id_to": 394,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中颖电子",
+        "to": "消费电子",
+        "id_from": 201,
+        "id_to": 394,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "捷邦科技",
+        "to": "消费电子",
+        "id_from": 152,
+        "id_to": 394,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "深康佳A",
+        "to": "消费电子",
+        "id_from": 117,
+        "id_to": 394,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "鸿富瀚",
+        "to": "消费电子",
+        "id_from": 81,
+        "id_to": 394,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "海目星",
+        "to": "消费电子",
+        "id_from": 75,
+        "id_to": 394,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "四川长虹",
+        "to": "消费电子",
+        "id_from": 15,
+        "id_to": 394,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "国轩高科",
+        "to": "电动工具",
+        "id_from": 278,
+        "id_to": 395,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "维科技术",
+        "to": "电动工具",
+        "id_from": 168,
+        "id_to": 395,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "君禾股份",
+        "to": "电动工具",
+        "id_from": 166,
+        "id_to": 395,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "中国电研",
+        "to": "电动工具",
+        "id_from": 137,
+        "id_to": 395,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "拓邦股份",
+        "to": "电动工具",
+        "id_from": 108,
+        "id_to": 395,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "山河智能",
+        "to": "电动工具",
+        "id_from": 48,
+        "id_to": 395,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    },
+    {
+        "from": "保力新",
+        "to": "电动工具",
+        "id_from": 35,
+        "id_to": 395,
+        "rel": "相关",
+        "from_type": "company",
+        "to_type": "link"
+    }
+]

@@ -1,0 +1,2422 @@
+[
+    {
+        "from": "沧州明珠",
+        "to": "锂离子电池隔膜",
+        "weight": "0.196704",
+        "id_from": 294,
+        "id_to": 476,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "朗科智能",
+        "to": "锂电池保护和控制装置",
+        "weight": "0.179198",
+        "id_from": 89,
+        "id_to": 528,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "嘉元科技",
+        "to": "锂电铜箔",
+        "weight": "0.937507",
+        "id_from": 126,
+        "id_to": 532,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "鹏欣资源",
+        "to": "锰矿",
+        "weight": "0.000137",
+        "id_from": 198,
+        "id_to": 538,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "泰尔股份",
+        "to": "电池注液机",
+        "weight": "0.003861",
+        "id_from": 274,
+        "id_to": 554,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "诺德股份",
+        "to": "铜箔",
+        "weight": "0.49668",
+        "id_from": 315,
+        "id_to": 559,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "锂精矿",
+        "weight": "0.640951",
+        "id_from": 13,
+        "id_to": 564,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "华锋股份",
+        "to": "新能源汽车电控",
+        "weight": "0.36907",
+        "id_from": 70,
+        "id_to": 613,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "圣阳股份",
+        "to": "锂电电池",
+        "weight": "0.00164",
+        "id_from": 207,
+        "id_to": 622,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赢合科技",
+        "to": "叠片机",
+        "weight": "0.105899",
+        "id_from": 92,
+        "id_to": 625,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "锂一次电池",
+        "weight": "0.001",
+        "id_from": 136,
+        "id_to": 628,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "当升科技",
+        "to": "锰酸锂",
+        "weight": "0.000166",
+        "id_from": 302,
+        "id_to": 642,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "丁基锂",
+        "weight": "0.094487",
+        "id_from": 217,
+        "id_to": 653,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "超频三",
+        "to": "消费电子散热配件",
+        "weight": "0.300577",
+        "id_from": 85,
+        "id_to": 673,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "富临精工",
+        "to": "锂电池正极材料",
+        "weight": "0.441841",
+        "id_from": 17,
+        "id_to": 679,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "科恒股份",
+        "to": "锂离子电池自动化生产设备",
+        "weight": "0.218005",
+        "id_from": 132,
+        "id_to": 688,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "华友钴业",
+        "to": "三元材料",
+        "weight": "0.041678",
+        "id_from": 177,
+        "id_to": 699,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "格林美",
+        "to": "三元材料",
+        "weight": "0.327875",
+        "id_from": 105,
+        "id_to": 699,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "*ST西源",
+        "to": "三元材料",
+        "weight": "0.05178",
+        "id_from": 16,
+        "id_to": 699,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "星云股份",
+        "to": "电动工具",
+        "weight": "0.147725",
+        "id_from": 269,
+        "id_to": 704,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "华友钴业",
+        "to": "镍矿",
+        "weight": "0.000392",
+        "id_from": 177,
+        "id_to": 737,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "海南矿业",
+        "to": "镍矿",
+        "weight": "0.045902",
+        "id_from": 64,
+        "id_to": 737,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "金冠股份",
+        "to": "BMS电池管理系统",
+        "weight": "0.001",
+        "id_from": 316,
+        "id_to": 771,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "湘潭电化",
+        "to": "锂锰型电解二氧化锰",
+        "weight": "0.017834",
+        "id_from": 52,
+        "id_to": 798,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "百川股份",
+        "to": "石墨烯材料",
+        "weight": "0.001",
+        "id_from": 234,
+        "id_to": 812,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "远东股份",
+        "to": "锂离子动力电池",
+        "weight": "0.001",
+        "id_from": 36,
+        "id_to": 814,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "保力新",
+        "to": "新能源汽车租售",
+        "weight": "0.061931",
+        "id_from": 35,
+        "id_to": 819,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赢合科技",
+        "to": "锂电池专用设备",
+        "weight": "0.977747",
+        "id_from": 92,
+        "id_to": 832,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "宝泰隆",
+        "to": "三元材料及制品",
+        "weight": "0.001",
+        "id_from": 318,
+        "id_to": 833,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "康盛股份",
+        "to": "新能源汽车零部件",
+        "weight": "0.176628",
+        "id_from": 192,
+        "id_to": 867,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "富临精工",
+        "to": "新能源汽车零部件",
+        "weight": "0.009865",
+        "id_from": 17,
+        "id_to": 867,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "北方华创",
+        "to": "锂离子电池设备",
+        "weight": "0.001",
+        "id_from": 305,
+        "id_to": 939,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "华锋股份",
+        "to": "新能源汽车动力系统",
+        "weight": "0.227846",
+        "id_from": 70,
+        "id_to": 1012,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "璞泰来",
+        "to": "锂电设备业务",
+        "weight": "0.191157",
+        "id_from": 195,
+        "id_to": 1013,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "东方电热",
+        "to": "动力锂电池钢壳材料",
+        "weight": "0.097979",
+        "id_from": 227,
+        "id_to": 1039,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "鹏辉能源",
+        "to": "锂铁电池",
+        "weight": "0.042683",
+        "id_from": 140,
+        "id_to": 1065,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "金银河",
+        "to": "混合设备",
+        "weight": "0.279859",
+        "id_from": 146,
+        "id_to": 1081,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "杭可科技",
+        "to": "锂电池化成",
+        "weight": "0.001",
+        "id_from": 184,
+        "id_to": 1082,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "江特电机",
+        "to": "锂离子电池用材料",
+        "weight": "0.028162",
+        "id_from": 216,
+        "id_to": 1121,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "多氟多",
+        "to": "六氟磷酸锂",
+        "weight": "0.029949",
+        "id_from": 290,
+        "id_to": 1147,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天际股份",
+        "to": "六氟磷酸锂",
+        "weight": "0.090537",
+        "id_from": 123,
+        "id_to": 1147,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "*ST必康",
+        "to": "六氟磷酸锂",
+        "weight": "0.028083",
+        "id_from": 33,
+        "id_to": 1147,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "融捷股份",
+        "to": "锂盐销售",
+        "weight": "0.060854",
+        "id_from": 142,
+        "id_to": 1173,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "冠城大通",
+        "to": "电解液添加剂",
+        "weight": "0.002108",
+        "id_from": 268,
+        "id_to": 1184,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "正业科技",
+        "to": "锂电检测自动化",
+        "weight": "0.147875",
+        "id_from": 153,
+        "id_to": 1216,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "氟化锂",
+        "weight": "0.171365",
+        "id_from": 217,
+        "id_to": 1241,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "百利科技",
+        "to": "锂电单体设备销售业务",
+        "weight": "0.06983",
+        "id_from": 49,
+        "id_to": 1257,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "雅化集团",
+        "to": "锂业",
+        "weight": "0.293983",
+        "id_from": 12,
+        "id_to": 1297,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "星云股份",
+        "to": "锂电池组BMS检测系统",
+        "weight": "0.018289",
+        "id_from": 269,
+        "id_to": 1338,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "先导智能",
+        "to": "锂电池装备",
+        "weight": "0.753292",
+        "id_from": 233,
+        "id_to": 1406,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "东旭光电",
+        "to": "石墨烯产业化应用",
+        "weight": "0.003883",
+        "id_from": 293,
+        "id_to": 1429,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "中科电气",
+        "to": "锂离子电池用负极材料",
+        "weight": "0.549381",
+        "id_from": 50,
+        "id_to": 1454,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "湘潭电化",
+        "to": "锰酸锂型电解二氧化锰",
+        "weight": "0.036574",
+        "id_from": 52,
+        "id_to": 1478,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "容百科技",
+        "to": "三元正极材料",
+        "weight": "0.776367",
+        "id_from": 165,
+        "id_to": 1493,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "格林美",
+        "to": "三元正极材料",
+        "weight": "0.514468",
+        "id_from": 105,
+        "id_to": 1493,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "ST时万",
+        "to": "锂电池",
+        "weight": "0.031132",
+        "id_from": 312,
+        "id_to": 1496,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "中天科技",
+        "to": "锂电池",
+        "weight": "0.007019",
+        "id_from": 254,
+        "id_to": 1496,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "蔚蓝锂芯",
+        "to": "锂电池",
+        "weight": "0.045886",
+        "id_from": 250,
+        "id_to": 1496,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "凤凰光学",
+        "to": "锂电池",
+        "weight": "0.36101",
+        "id_from": 218,
+        "id_to": 1496,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "南都电源",
+        "to": "锂电池",
+        "weight": "0.058115",
+        "id_from": 190,
+        "id_to": 1496,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "横店东磁",
+        "to": "锂电池",
+        "weight": "0.057549",
+        "id_from": 176,
+        "id_to": 1496,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "雄韬股份",
+        "to": "锂电池",
+        "weight": "0.037001",
+        "id_from": 101,
+        "id_to": 1496,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "骆驼股份",
+        "to": "锂电池",
+        "weight": "0.002681",
+        "id_from": 57,
+        "id_to": 1496,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "成飞集成",
+        "to": "锂电池",
+        "weight": "0.33354",
+        "id_from": 24,
+        "id_to": 1496,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "*ST西源",
+        "to": "锂电池",
+        "weight": "0.108956",
+        "id_from": 16,
+        "id_to": 1496,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "锂化合物",
+        "weight": "0.531014",
+        "id_from": 13,
+        "id_to": 1568,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "江特电机",
+        "to": "锂云母",
+        "weight": "0.008309",
+        "id_from": 216,
+        "id_to": 1585,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "星云股份",
+        "to": "锂电池组自动化组装设备",
+        "weight": "1",
+        "id_from": 269,
+        "id_to": 1663,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "北方华创",
+        "to": "锂电设备",
+        "weight": "0.058912",
+        "id_from": 305,
+        "id_to": 1683,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "正业科技",
+        "to": "锂电设备",
+        "weight": "0.151569",
+        "id_from": 153,
+        "id_to": 1683,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "融捷股份",
+        "to": "锂电设备",
+        "weight": "0.263653",
+        "id_from": 142,
+        "id_to": 1683,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "锂盐系列",
+        "weight": "0.882",
+        "id_from": 217,
+        "id_to": 1703,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "金冠股份",
+        "to": "新能源汽车充电服务",
+        "weight": "0.001",
+        "id_from": 316,
+        "id_to": 1704,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "氢氧化锂",
+        "weight": "0.172545",
+        "id_from": 13,
+        "id_to": 1719,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "金属锂系列",
+        "weight": "0.436583",
+        "id_from": 217,
+        "id_to": 1721,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "电池级碳酸锂",
+        "weight": "0.534831",
+        "id_from": 13,
+        "id_to": 1722,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "新宙邦",
+        "to": "锂电池化学品",
+        "weight": "0.449176",
+        "id_from": 96,
+        "id_to": 1805,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赢合科技",
+        "to": "卷绕机",
+        "weight": "0.242398",
+        "id_from": 92,
+        "id_to": 1824,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "纳川股份",
+        "to": "新能源汽车动力总成",
+        "weight": "0.161199",
+        "id_from": 265,
+        "id_to": 1828,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "国轩高科",
+        "to": "磷酸铁锂",
+        "weight": "0.000672",
+        "id_from": 278,
+        "id_to": 1830,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "中银绒业",
+        "to": "磷酸铁锂",
+        "weight": "0.060177",
+        "id_from": 40,
+        "id_to": 1830,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "富临精工",
+        "to": "磷酸铁锂",
+        "weight": "0.382047",
+        "id_from": 17,
+        "id_to": 1830,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "融捷股份",
+        "to": "锂精矿销售",
+        "weight": "0.094262",
+        "id_from": 142,
+        "id_to": 1834,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "易事特",
+        "to": "新能源汽车充电站点",
+        "weight": "0.001",
+        "id_from": 154,
+        "id_to": 1886,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "湘潭电化",
+        "to": "锰酸锂正极材料",
+        "weight": "0.135321",
+        "id_from": 52,
+        "id_to": 1894,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "锂材",
+        "weight": "0.403622",
+        "id_from": 217,
+        "id_to": 1901,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "江特电机",
+        "to": "碳酸锂",
+        "weight": "0.043703",
+        "id_from": 216,
+        "id_to": 1985,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "凯恩股份",
+        "to": "碳酸锂",
+        "weight": "0.030803",
+        "id_from": 172,
+        "id_to": 1985,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "藏格矿业",
+        "to": "碳酸锂",
+        "weight": "0.001118",
+        "id_from": 38,
+        "id_to": 1985,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "盐湖股份",
+        "to": "碳酸锂",
+        "weight": "0.00271",
+        "id_from": 37,
+        "id_to": 1985,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "星云股份",
+        "to": "锂电池设备",
+        "weight": "0.856415",
+        "id_from": 269,
+        "id_to": 1994,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "先导智能",
+        "to": "锂电池设备",
+        "weight": "0.06602",
+        "id_from": 233,
+        "id_to": 1994,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "金银河",
+        "to": "锂电池设备",
+        "weight": "0.05349",
+        "id_from": 146,
+        "id_to": 1994,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "中国动力",
+        "to": "含锂离子电池",
+        "weight": "0.758139",
+        "id_from": 295,
+        "id_to": 1996,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "永兴材料",
+        "to": "锂矿采选",
+        "weight": "0.003983",
+        "id_from": 182,
+        "id_to": 2022,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "星云股份",
+        "to": "锂电池模组",
+        "weight": "0.274602",
+        "id_from": 269,
+        "id_to": 2027,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "国轩高科",
+        "to": "锂离子电池应急电源",
+        "weight": "0.001",
+        "id_from": 278,
+        "id_to": 2029,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "福能东方",
+        "to": "注液机",
+        "weight": "0.132964",
+        "id_from": 147,
+        "id_to": 2044,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赢合科技",
+        "to": "注液机",
+        "weight": "0.027745",
+        "id_from": 92,
+        "id_to": 2044,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "科恒股份",
+        "to": "锂离子电池正极材料",
+        "weight": "0.585797",
+        "id_from": 132,
+        "id_to": 2078,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "锂原电池",
+        "weight": "0.876959",
+        "id_from": 136,
+        "id_to": 2079,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "锂电池系列",
+        "weight": "0.075248",
+        "id_from": 217,
+        "id_to": 2106,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "维科技术",
+        "to": "聚合物类锂离子电池",
+        "weight": "0.535409",
+        "id_from": 168,
+        "id_to": 2137,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "冠城大通",
+        "to": "新能源汽车动力电池组",
+        "weight": "2.50E-05",
+        "id_from": 268,
+        "id_to": 2149,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "星云股份",
+        "to": "锂电池保护板检测系统",
+        "weight": "0.221081",
+        "id_from": 269,
+        "id_to": 2152,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "西藏矿业",
+        "to": "锂类",
+        "weight": "0.093659",
+        "id_from": 10,
+        "id_to": 2160,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天赐材料",
+        "to": "锂离子电池制造",
+        "weight": "0.001",
+        "id_from": 141,
+        "id_to": 2195,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "锂电池储能系统",
+        "weight": "0.001",
+        "id_from": 136,
+        "id_to": 2216,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "盐湖股份",
+        "to": "金属锂",
+        "weight": "0.001",
+        "id_from": 37,
+        "id_to": 2224,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天奈科技",
+        "to": "碳纳米管粉体",
+        "weight": "0.008332",
+        "id_from": 225,
+        "id_to": 2231,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "南都电源",
+        "to": "储能",
+        "weight": "0.027117",
+        "id_from": 190,
+        "id_to": 2300,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "储能",
+        "weight": "0.000351",
+        "id_from": 167,
+        "id_to": 2300,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "宝泰隆",
+        "to": "磷酸锰铁锂及制品",
+        "weight": "0.001",
+        "id_from": 318,
+        "id_to": 2376,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "百利科技",
+        "to": "锂电智能产线",
+        "weight": "0.340009",
+        "id_from": 49,
+        "id_to": 2379,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "道明光学",
+        "to": "锂离子电池封装用材料",
+        "weight": "0.036712",
+        "id_from": 175,
+        "id_to": 2432,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "雅化集团",
+        "to": "碳酸锂及锂系列产品",
+        "weight": "0.001",
+        "id_from": 12,
+        "id_to": 2439,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "锂矿",
+        "weight": "0.646962",
+        "id_from": 13,
+        "id_to": 2468,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "宁德时代",
+        "to": "锂电池材料",
+        "weight": "0.103676",
+        "id_from": 266,
+        "id_to": 2505,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "晶瑞电材",
+        "to": "锂电池材料",
+        "weight": "0.326706",
+        "id_from": 246,
+        "id_to": 2505,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "江特电机",
+        "to": "锂电池材料",
+        "weight": "0.021443",
+        "id_from": 216,
+        "id_to": 2505,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "锂电池材料",
+        "weight": "0.655615",
+        "id_from": 167,
+        "id_to": 2505,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "科达制造",
+        "to": "锂电池材料",
+        "weight": "0.009814",
+        "id_from": 145,
+        "id_to": 2505,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "光华科技",
+        "to": "锂电池材料",
+        "weight": "0.087414",
+        "id_from": 124,
+        "id_to": 2505,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "深中华A",
+        "to": "锂电池材料",
+        "weight": "0.189983",
+        "id_from": 116,
+        "id_to": 2505,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "锂离子蓄电池组",
+        "weight": "0.001",
+        "id_from": 136,
+        "id_to": 2520,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "无水氯化锂",
+        "weight": "0.128156",
+        "id_from": 13,
+        "id_to": 2548,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "鹏辉能源",
+        "to": "一次锂离子电池",
+        "weight": "0.034778",
+        "id_from": 140,
+        "id_to": 2580,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "星云股份",
+        "to": "锂电池成品检测系统",
+        "weight": "0.04109",
+        "id_from": 269,
+        "id_to": 2612,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "先导智能",
+        "to": "锂电池生产装备",
+        "weight": "0.657193",
+        "id_from": 233,
+        "id_to": 2629,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "锂离子电池",
+        "weight": "0.131865",
+        "id_from": 136,
+        "id_to": 2645,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "保力新",
+        "to": "锂离子电池",
+        "weight": "0.809731",
+        "id_from": 35,
+        "id_to": 2645,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "楚江新材",
+        "to": "锂电池负极材料研发",
+        "weight": "0.001",
+        "id_from": 271,
+        "id_to": 2675,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "星源材质",
+        "to": "锂离子电池隔膜新能源材料",
+        "weight": "0.978306",
+        "id_from": 86,
+        "id_to": 2686,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "德方纳米",
+        "to": "纳米磷酸铁锂",
+        "weight": "0.961943",
+        "id_from": 84,
+        "id_to": 2707,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "氯化锂",
+        "weight": "0.099969",
+        "id_from": 217,
+        "id_to": 2730,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "正业科技",
+        "to": "锂电智能检测",
+        "weight": "0.095025",
+        "id_from": 153,
+        "id_to": 2733,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "万盛股份",
+        "to": "阻燃剂",
+        "weight": "0.742284",
+        "id_from": 156,
+        "id_to": 2789,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "宝泰隆",
+        "to": "石墨烯制品",
+        "weight": "0.001",
+        "id_from": 318,
+        "id_to": 2791,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "康盛股份",
+        "to": "新能源汽车整车",
+        "weight": "0.069834",
+        "id_from": 192,
+        "id_to": 2794,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "先导智能",
+        "to": "锂电池智能装备",
+        "weight": "0.709721",
+        "id_from": 233,
+        "id_to": 2797,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "华自科技",
+        "to": "锂电池智能装备",
+        "weight": "0.072323",
+        "id_from": 47,
+        "id_to": 2797,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "华友钴业",
+        "to": "钴",
+        "weight": "0.001",
+        "id_from": 177,
+        "id_to": 2798,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "金冠股份",
+        "to": "锂电池隔膜",
+        "weight": "0.296357",
+        "id_from": 316,
+        "id_to": 2821,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "中材科技",
+        "to": "锂电池隔膜",
+        "weight": "0.003256",
+        "id_from": 259,
+        "id_to": 2821,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "胜利精密",
+        "to": "锂电池隔膜",
+        "weight": "0.002189",
+        "id_from": 248,
+        "id_to": 2821,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "航天彩虹",
+        "to": "锂电池隔膜",
+        "weight": "0.000598",
+        "id_from": 158,
+        "id_to": 2821,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "盛新锂能",
+        "to": "锂盐加工销售业务",
+        "weight": "0.387503",
+        "id_from": 23,
+        "id_to": 2859,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天赐材料",
+        "to": "锂离子电池材料",
+        "weight": "0.13539",
+        "id_from": 141,
+        "id_to": 2870,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "*ST雪莱",
+        "to": "锂电池生产设备系列",
+        "weight": "0.022905",
+        "id_from": 148,
+        "id_to": 2917,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天铁股份",
+        "to": "锂化物系列",
+        "weight": "0.135534",
+        "id_from": 157,
+        "id_to": 2934,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "当升科技",
+        "to": "锂电正极材料",
+        "weight": "0.985314",
+        "id_from": 302,
+        "id_to": 2952,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "富临精工",
+        "to": "锂电正极材料",
+        "weight": "0.01322",
+        "id_from": 17,
+        "id_to": 2952,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "锂亚电池",
+        "weight": "0.438084",
+        "id_from": 136,
+        "id_to": 2965,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "宝泰隆",
+        "to": "磷酸铁锂及制品",
+        "weight": "0.001",
+        "id_from": 318,
+        "id_to": 2973,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "百利科技",
+        "to": "锂电设备销售",
+        "weight": "0.119672",
+        "id_from": 49,
+        "id_to": 3008,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "鹏辉能源",
+        "to": "一次锂电池",
+        "weight": "0.038362",
+        "id_from": 140,
+        "id_to": 3023,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "福能东方",
+        "to": "涂布机系列",
+        "weight": "0.185089",
+        "id_from": 147,
+        "id_to": 3058,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "璞泰来",
+        "to": "电解液",
+        "weight": "0.133705",
+        "id_from": 195,
+        "id_to": 3080,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "电解液",
+        "weight": "0.076598",
+        "id_from": 167,
+        "id_to": 3080,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "*ST西源",
+        "to": "电解液",
+        "weight": "0.006024",
+        "id_from": 16,
+        "id_to": 3080,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "华中数控",
+        "to": "新能源汽车配套",
+        "weight": "0.0067",
+        "id_from": 60,
+        "id_to": 3097,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "湘潭电化",
+        "to": "锰酸锂专用二氧化锰",
+        "weight": "0.042054",
+        "id_from": 52,
+        "id_to": 3118,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "凤凰光学",
+        "to": "锂电芯生产",
+        "weight": "0.37973",
+        "id_from": 218,
+        "id_to": 3133,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "长虹华意",
+        "to": "电池",
+        "weight": "0.00988",
+        "id_from": 222,
+        "id_to": 3149,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "国光电器",
+        "to": "电池",
+        "weight": "0.053336",
+        "id_from": 143,
+        "id_to": 3149,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "四川长虹",
+        "to": "电池",
+        "weight": "0.015502",
+        "id_from": 15,
+        "id_to": 3149,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "雄韬股份",
+        "to": "电池管理系统",
+        "weight": "0.001",
+        "id_from": 101,
+        "id_to": 3150,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "新宙邦",
+        "to": "锂离子电池电解液",
+        "weight": "0.001",
+        "id_from": 96,
+        "id_to": 3170,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "纳川股份",
+        "to": "新能源汽车销售",
+        "weight": "0.1086",
+        "id_from": 265,
+        "id_to": 3172,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "星云股份",
+        "to": "锂电池组充放电检测系统",
+        "weight": "0.249196",
+        "id_from": 269,
+        "id_to": 3195,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "鹏辉能源",
+        "to": "二次锂离子电池",
+        "weight": "0.773139",
+        "id_from": 140,
+        "id_to": 3199,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "锂衍生",
+        "weight": "0.316736",
+        "id_from": 13,
+        "id_to": 3280,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "星云股份",
+        "to": "锂电池组工况模拟检测系统",
+        "weight": "0.14596",
+        "id_from": 269,
+        "id_to": 3291,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "维科技术",
+        "to": "铝壳类锂离子电池",
+        "weight": "0.153355",
+        "id_from": 168,
+        "id_to": 3300,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "国轩高科",
+        "to": "锂离子电池及其材料",
+        "weight": "0.001",
+        "id_from": 278,
+        "id_to": 3311,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "鹏辉能源",
+        "to": "锂锰电池",
+        "weight": "0.034203",
+        "id_from": 140,
+        "id_to": 3316,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "锂锰电池",
+        "weight": "0.014926",
+        "id_from": 136,
+        "id_to": 3316,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "百川股份",
+        "to": "铁锂电芯",
+        "weight": "0.077431",
+        "id_from": 234,
+        "id_to": 3340,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "鼎胜新材",
+        "to": "铝箔",
+        "weight": "0.845028",
+        "id_from": 226,
+        "id_to": 3380,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "万顺新材",
+        "to": "铝箔",
+        "weight": "0.633666",
+        "id_from": 122,
+        "id_to": 3380,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "华自科技",
+        "to": "新能源汽车充电桩",
+        "weight": "0.001",
+        "id_from": 47,
+        "id_to": 3398,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "鹏辉能源",
+        "to": "一次锂电电池",
+        "weight": "0.085714",
+        "id_from": 140,
+        "id_to": 3407,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "华友钴业",
+        "to": "镍",
+        "weight": "0.001",
+        "id_from": 177,
+        "id_to": 3427,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "碳酸锂系列",
+        "weight": "0.239935",
+        "id_from": 217,
+        "id_to": 3441,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "*ST新海",
+        "to": "锂电材料",
+        "weight": "0.069881",
+        "id_from": 252,
+        "id_to": 3459,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天华超净",
+        "to": "锂电材料",
+        "weight": "0.775426",
+        "id_from": 247,
+        "id_to": 3459,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "锂电材料",
+        "weight": "0.472339",
+        "id_from": 167,
+        "id_to": 3459,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "科达制造",
+        "to": "锂电材料",
+        "weight": "0.042681",
+        "id_from": 145,
+        "id_to": 3459,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "科恒股份",
+        "to": "锂电材料",
+        "weight": "0.058796",
+        "id_from": 132,
+        "id_to": 3459,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "道氏技术",
+        "to": "锂电材料",
+        "weight": "0.588143",
+        "id_from": 131,
+        "id_to": 3459,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "中科电气",
+        "to": "锂电材料",
+        "weight": "0.682876",
+        "id_from": 50,
+        "id_to": 3459,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赣锋锂业",
+        "to": "深加工锂化合物系列",
+        "weight": "0.619158",
+        "id_from": 217,
+        "id_to": 3468,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "湘潭电化",
+        "to": "锂锰电解二氧化锰",
+        "weight": "0.011339",
+        "id_from": 52,
+        "id_to": 3483,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "拓邦股份",
+        "to": "锂电池类",
+        "weight": "0.1418",
+        "id_from": 108,
+        "id_to": 3495,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "晶瑞电材",
+        "to": "锂电池粘结剂",
+        "weight": "0.182528",
+        "id_from": 246,
+        "id_to": 3519,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "欣旺达",
+        "to": "锂离子电芯",
+        "weight": "0.029219",
+        "id_from": 94,
+        "id_to": 3543,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "锂聚合物组合电池",
+        "weight": "0.341234",
+        "id_from": 136,
+        "id_to": 3549,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "科达利",
+        "to": "锂电池结构件",
+        "weight": "0.546976",
+        "id_from": 99,
+        "id_to": 3571,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "东旭光电",
+        "to": "新能源汽车",
+        "weight": "0.14498",
+        "id_from": 293,
+        "id_to": 3616,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "多氟多",
+        "to": "新能源汽车",
+        "weight": "1.10E-05",
+        "id_from": 290,
+        "id_to": 3616,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "星云股份",
+        "to": "新能源汽车",
+        "weight": "0.766227",
+        "id_from": 269,
+        "id_to": 3616,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "杉杉股份",
+        "to": "新能源汽车",
+        "weight": "0.017265",
+        "id_from": 167,
+        "id_to": 3616,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "露笑科技",
+        "to": "新能源汽车",
+        "weight": "0.002766",
+        "id_from": 163,
+        "id_to": 3616,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "易事特",
+        "to": "新能源汽车",
+        "weight": "0.016547",
+        "id_from": 154,
+        "id_to": 3616,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "蓝海华腾",
+        "to": "新能源汽车租赁服务",
+        "weight": "0.001",
+        "id_from": 91,
+        "id_to": 3645,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "高纯碳酸锂",
+        "weight": "0.023361",
+        "id_from": 13,
+        "id_to": 3651,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "远东股份",
+        "to": "锂离子储能电池",
+        "weight": "0.001",
+        "id_from": 36,
+        "id_to": 3658,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "凯中精密",
+        "to": "新能源汽车零组件",
+        "weight": "0.081597",
+        "id_from": 100,
+        "id_to": 3664,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "金银河",
+        "to": "行星搅拌机",
+        "weight": "0.04263",
+        "id_from": 146,
+        "id_to": 3677,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "当升科技",
+        "to": "钴酸锂",
+        "weight": "0.960226",
+        "id_from": 302,
+        "id_to": 3685,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "格林美",
+        "to": "钴酸锂",
+        "weight": "0.514468",
+        "id_from": 105,
+        "id_to": 3685,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "亿纬锂能",
+        "to": "锂二次电池",
+        "weight": "0.001",
+        "id_from": 136,
+        "id_to": 3694,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "比亚迪",
+        "to": "汽车",
+        "weight": "0.511159",
+        "id_from": 102,
+        "id_to": 3729,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "奥联电子",
+        "to": "新能源",
+        "weight": "0.027891",
+        "id_from": 258,
+        "id_to": 3731,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "*ST新海",
+        "to": "新能源",
+        "weight": "0.038612",
+        "id_from": 252,
+        "id_to": 3731,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "胜利精密",
+        "to": "新能源",
+        "weight": "0.023855",
+        "id_from": 248,
+        "id_to": 3731,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "圣阳股份",
+        "to": "新能源",
+        "weight": "0.332034",
+        "id_from": 207,
+        "id_to": 3731,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "英飞特",
+        "to": "新能源",
+        "weight": "0.050047",
+        "id_from": 189,
+        "id_to": 3731,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "科陆电子",
+        "to": "新能源",
+        "weight": "0.028201",
+        "id_from": 109,
+        "id_to": 3731,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "比亚迪",
+        "to": "新能源",
+        "weight": "0.094798",
+        "id_from": 102,
+        "id_to": 3731,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "贤丰控股",
+        "to": "新能源",
+        "weight": "0.021857",
+        "id_from": 67,
+        "id_to": 3731,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "精测电子",
+        "to": "新能源",
+        "weight": "0.03894",
+        "id_from": 59,
+        "id_to": 3731,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "璞泰来",
+        "to": "涂布机",
+        "weight": "0.338704",
+        "id_from": 195,
+        "id_to": 3732,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "金银河",
+        "to": "涂布机",
+        "weight": "0.053117",
+        "id_from": 146,
+        "id_to": 3732,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赢合科技",
+        "to": "涂布机",
+        "weight": "0.193966",
+        "id_from": 92,
+        "id_to": 3732,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "多氟多",
+        "to": "动力锂电池",
+        "weight": "0.062255",
+        "id_from": 290,
+        "id_to": 3771,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "*ST尤夫",
+        "to": "动力锂电池",
+        "weight": "0.055164",
+        "id_from": 183,
+        "id_to": 3771,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "新宙邦",
+        "to": "锂离子电池化学品",
+        "weight": "0.304893",
+        "id_from": 96,
+        "id_to": 3798,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "中科电气",
+        "to": "锂离子电池负极材料",
+        "weight": "0.621024",
+        "id_from": 50,
+        "id_to": 3801,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "盐湖股份",
+        "to": "磷酸锂",
+        "weight": "0.001",
+        "id_from": 37,
+        "id_to": 3810,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "金银河",
+        "to": "锂电池生产设备",
+        "weight": "0.26197",
+        "id_from": 146,
+        "id_to": 3835,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "赢合科技",
+        "to": "锂电池生产设备",
+        "weight": "0.922486",
+        "id_from": 92,
+        "id_to": 3835,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "德赛电池",
+        "to": "锂聚合物电池",
+        "weight": "0.001",
+        "id_from": 115,
+        "id_to": 3847,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "东方电热",
+        "to": "新能源汽车用电加热器",
+        "weight": "0.028361",
+        "id_from": 227,
+        "id_to": 4019,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "中矿资源",
+        "to": "锂盐",
+        "weight": "0.359661",
+        "id_from": 303,
+        "id_to": 4022,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "永兴材料",
+        "to": "锂盐",
+        "weight": "0.003983",
+        "id_from": 182,
+        "id_to": 4022,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "锂盐",
+        "weight": "0.341903",
+        "id_from": 13,
+        "id_to": 4022,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "雅化集团",
+        "to": "锂盐",
+        "weight": "0.393581",
+        "id_from": 12,
+        "id_to": 4022,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "国轩高科",
+        "to": "动力锂电池组",
+        "weight": "0.856392",
+        "id_from": 278,
+        "id_to": 4056,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "融捷股份",
+        "to": "锂盐加工",
+        "weight": "0.012602",
+        "id_from": 142,
+        "id_to": 4129,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "天齐锂业",
+        "to": "工业级碳酸锂",
+        "weight": "0.115853",
+        "id_from": 13,
+        "id_to": 4135,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    },
+    {
+        "from": "东方电热",
+        "to": "动力锂电池材料",
+        "weight": "0.052979",
+        "id_from": 227,
+        "id_to": 4150,
+        "rel": "主营产品",
+        "from_type": "company",
+        "to_type": "product"
+    }
+]

@@ -1,0 +1,72 @@
+01.初始化上中下游标签
+首先让link具有上中下游标签
+    MATCH (n:link) // 找到所有 Link 类型的节点
+    SET n:up // 给节点添加上游标签
+    SET n:mid // 给节点添加中游标签
+    SET n:down // 给节点添加下游标签
+    RETURN n
+
+mid =0 , down = 0 , up = 0
+
+MATCH (n:link) // 找到所有 Link 类型的节点
+SET n.up = 0 // 设置节点的 up 属性为 0
+SET n.mid = 0 // 设置节点的 mid 属性为 0
+SET n.down = 0 // 设置节点的 down 属性为 0
+RETURN n
+
+02.初始化上中下游关系
+现在有3个link类型的结点name: 上游（原材料），name: 中游（四大材料+设备），name: 下游（电池制造），我想令其他link类型的结点计算到达这三个结点的距离，
+距离name: 上游（原材料）的结点最近则:up=1,mid=0,down=0,
+距离name: 中游（四大材料+设备）的结点最近则:up=0,mid=1,down=0，
+距离name: 下游（电池制造）的结点最近则:up=0,mid=0,down=1
+
+MATCH (l:link)
+WHERE l.name <> "上游（原材料）" AND l.name <> "中游（四大材料+设备）" AND l.name <> "下游（电池制造）"
+MATCH (u:link {name: "上游（原材料）"}), (m:link {name: "中游（四大材料+设备）"}), (d:link {name: "下游（电池制造）"})
+WITH l, shortestPath((l)-[*]-(u)) AS pathToUp, shortestPath((l)-[*]-(m)) AS pathToMid, shortestPath((l)-[*]-(d)) AS pathToDown
+WITH l, length(pathToUp) AS distToUp, length(pathToMid) AS distToMid, length(pathToDown) AS distToDown
+SET l.up = CASE WHEN distToUp <= distToMid AND distToUp <= distToDown THEN 1 ELSE 0 END
+SET l.mid = CASE WHEN distToMid < distToUp AND distToMid <= distToDown THEN 1 ELSE 0 END
+SET l.down = CASE WHEN distToDown < distToUp AND distToDown < distToMid THEN 1 ELSE 0 END
+
+match (l1:link)
+where l1.name = "上游（原材料）"
+set l1.up = 1, l1.mid = 0, l1.down = 0
+
+match (l2:link)
+where l2.name = "中游（四大材料+设备）"
+set l2.up = 0, l2.mid = 1, l2.down = 0
+
+match (l3:link)
+where l3.name = "下游（电池制造）"
+set l3.up = 0, l3.mid = 0, l3.down = 1
+
+03.初始化公司上中下游情况
+
+MATCH (n:company) // 找到所有 company 类型的节点
+SET n.up = 0 // 设置节点的 up 属性为 0
+SET n.mid = 0 // 设置节点的 mid 属性为 0
+SET n.down = 0 // 设置节点的 down 属性为 0
+RETURN n
+
+找到所有与link相连的company，如果link的up=1，则company的up=1，如果link的mid=1，则company的mid=1，如果link的down=1，则company的down=1
+
+MATCH (c:company)-[]-(l:link)
+SET c.up = CASE WHEN l.up = 1 THEN 1 ELSE c.up END
+SET c.mid = CASE WHEN l.mid = 1 THEN 1 ELSE c.mid END
+SET c.down = CASE WHEN l.down = 1 THEN 1 ELSE c.down END
+RETURN c
+
+04.初始化产品上中下游关系
+
+MATCH (n:`产业链相关产品`) // 找到所有 `产业链相关产品` 类型的节点
+SET n.up = 0 // 设置节点的 up 属性为 0
+SET n.mid = 0 // 设置节点的 mid 属性为 0
+SET n.down = 0 // 设置节点的 down 属性为 0
+RETURN n
+
+MATCH (c:`产业链相关产品`)-[]-(l:link)
+SET c.up = CASE WHEN l.up = 1 THEN 1 ELSE c.up END
+SET c.mid = CASE WHEN l.mid = 1 THEN 1 ELSE c.mid END
+SET c.down = CASE WHEN l.down = 1 THEN 1 ELSE c.down END
+RETURN c

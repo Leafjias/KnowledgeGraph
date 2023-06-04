@@ -1,0 +1,30 @@
+1.首页展示图谱的接口
+
+url:http://192.168.31.221:5000/datas/?link=true&product=true&company=true&start_time=2010-10-10&end_time=2020-10-10
+
+编码设置:
+这里将环节,公司,企业的编码设置为x1,x2,x3
+当传来的是link=true&product=true&company=true时
+编码为111
+
+返回格式:
+实体=>name,id
+关系=>id_from,id_to,rel
+
+要求:每个关系要有相应的实体对应，不能出现关系中id_from和id_to没有实体id对应的情况
+
+下面来讨论一下情况
+编码111时
+展示:
+实体=>所有环节，所有与产业链相关的产品，该时间结点创办的公司
+关系=>环节与环节，环节与公司（该时间结点内的公司），环节与产品，公司与公司（该时间点内且有联系的），公司与产品（公司），产品与产品
+
+# http://192.168.212.221:5000/datas/find/?value=宁德时代
+# http://192.168.212.221:5000/datas/find/?value=宁德时代&type=company
+
+#http://192.168.212.221:5000//datas/find_path?start=&end=&ll=&lc&lp&cc&cp&cn&pp
+
+#公司信息的
+http://192.168.153.221:5000/datas/find/?value=宁德时代&type=company
+
+

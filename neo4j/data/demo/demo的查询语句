@@ -1,0 +1,24 @@
+公司
+MATCH (n:news)-[]-(c:company)
+RETURN DISTINCT c.name as name, c.code as code, c.pagerank as pagerank, c.up as up, c.mid as mid, c.down as down, c.首发上市日 as 上市日期, c.注册资本万元 as 注册资本, c.communityId as communityId
+
+新闻
+MATCH (n:news)-[r]-(c:company) RETURN id(n) as id ,n.name as name,n.网址 as 网址,n.来源 as 来源 ,n.时间 as 时间 , n.影响 as 影响
+
+公司与新闻
+MATCH (n:news)-[r]-(c:company) RETURN n.name as from ,c.name as to,id(n) as id_form,id(c) as id_to, type(r) as rel
+
+产品
+MATCH (n:news)-[]-(c:company)-[r]-(p:`产业链相关产品`)
+RETURN DISTINCT p.name as name,id(p) as id ,p.up as up, p.mid as mid , p.down as down,p.communityId as communityId,p.pagerank as pagerank
+
+公司与产品
+MATCH (n:news)-[]-(c:company)-[r]-(p:`产业链相关产品`)
+RETURN DISTINCT  c.name as from ,p.name as to,id(c) as id_form,id(p) as id_to, type(r) as rel,r.weight as weight
+
+公司与公司
+
+环节与产品
+MATCH (n:news)-[]-(c:company)-[]-(p:`产业链相关产品`)
+match (p)-[r]-(l:link)
+RETURN DISTINCT  l.name as from ,p.name as to,id(l) as id_form,id(p) as id_to, type(r) as rel

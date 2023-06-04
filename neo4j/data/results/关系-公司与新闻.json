@@ -1,0 +1,686 @@
+[
+    {
+        "from": "杉杉股份：预计上半年净利润同比增长111%-124%",
+        "to": "杉杉股份",
+        "id_from": 5391,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份减持184万股宁波银行 　收益约3194万元",
+        "to": "杉杉股份",
+        "id_from": 5440,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份去年净利同比增近九成 　拟10转0.8",
+        "to": "杉杉股份",
+        "id_from": 5439,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份募资34亿 　加码锂离子电池",
+        "to": "杉杉股份",
+        "id_from": 5438,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份减持宁波银行1029万股 　获益2.16亿",
+        "to": "杉杉股份",
+        "id_from": 5437,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份减持宁波银行 　获益逾4000万",
+        "to": "杉杉股份",
+        "id_from": 5436,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份控股子公司拟申请挂牌新三板",
+        "to": "杉杉股份",
+        "id_from": 5435,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份布局新能源汽车 　在深设立5亿产业基金",
+        "to": "杉杉股份",
+        "id_from": 5434,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份上半年净利预增380%-430%",
+        "to": "杉杉股份",
+        "id_from": 5433,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "售宁波银行股权获益5亿 　杉杉股份中期净利增逾4倍",
+        "to": "杉杉股份",
+        "id_from": 5432,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "出售宁波银行股权获利 　杉杉股份三季报净利预增超三倍",
+        "to": "杉杉股份",
+        "id_from": 5431,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份前三季净利增逾3倍 　证金汇金共持股4.26%",
+        "to": "杉杉股份",
+        "id_from": 5430,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份2015年净利预增75%-125%",
+        "to": "杉杉股份",
+        "id_from": 5429,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份50亿布局能源管理服务产业",
+        "to": "杉杉股份",
+        "id_from": 5428,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：公司及杉杉控股遭宁波证监局责令改正",
+        "to": "杉杉股份",
+        "id_from": 5427,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：子公司拟逾50亿元投建锂离子电池正极材料项目",
+        "to": "杉杉股份",
+        "id_from": 5426,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：前三季净利同比预增117%到132%",
+        "to": "杉杉股份",
+        "id_from": 5425,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：拟1.2亿元收购Altura 　11.83%股份",
+        "to": "杉杉股份",
+        "id_from": 5424,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：上半年净利同比下降52.97%",
+        "to": "杉杉股份",
+        "id_from": 5423,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：2019年净利预降74%-79%",
+        "to": "杉杉股份",
+        "id_from": 5422,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：1.68亿元转让杉杉品牌公司48.1%股份",
+        "to": "杉杉股份",
+        "id_from": 5421,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "新能源汽车板块震荡走高 　双林股份杉杉股份等涨停",
+        "to": "杉杉股份",
+        "id_from": 5420,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "特斯拉概念发力走高 　新宙邦杉杉股份等大涨",
+        "to": "杉杉股份",
+        "id_from": 5419,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：子公司股票在新三板终止挂牌",
+        "to": "杉杉股份",
+        "id_from": 5418,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "锂电池概念再度爆发 　杉杉股份、国轩高科等涨停",
+        "to": "杉杉股份",
+        "id_from": 4435,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "锂电池概念再度爆发 　杉杉股份、国轩高科等涨停",
+        "to": "杉杉股份",
+        "id_from": 5417,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份持续走强 　股价再创新高",
+        "to": "杉杉股份",
+        "id_from": 5416,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份持续走强 　股价创历史新高",
+        "to": "杉杉股份",
+        "id_from": 5415,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：非公开发行股票申请获通过",
+        "to": "杉杉股份",
+        "id_from": 5414,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "宏润建设：拟并购整合杉杉股份的光伏新能源资产及业务",
+        "to": "杉杉股份",
+        "id_from": 5413,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "宏润建设拟引入杉杉股份为战略股东",
+        "to": "杉杉股份",
+        "id_from": 5412,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：2021年净利同比预增2146%至2356%",
+        "to": "杉杉股份",
+        "id_from": 5411,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "锂电材料业务销量大增 　杉杉股份2021年净利预增超21倍",
+        "to": "杉杉股份",
+        "id_from": 5410,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "晚间资讯｜杉杉股份2021年净利预增超21倍 　中泰化学2021年净利预增超17倍",
+        "to": "杉杉股份",
+        "id_from": 5409,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：绵阳项目预计2023年启动投试产",
+        "to": "杉杉股份",
+        "id_from": 5408,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "【互动掘金】杉杉股份：绵阳项目预计2023年启动投试产",
+        "to": "杉杉股份",
+        "id_from": 5407,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：前2月净利约5.66亿元 　同比增长约313%",
+        "to": "杉杉股份",
+        "id_from": 5406,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：前2月实现净利约5.66亿元 　同比增长约313%",
+        "to": "杉杉股份",
+        "id_from": 5405,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：拟筹划境外发行GDR并上市",
+        "to": "杉杉股份",
+        "id_from": 5404,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：预计一季度净利同比增长148%至181%",
+        "to": "杉杉股份",
+        "id_from": 5403,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：一季度净利预增148%至181%",
+        "to": "杉杉股份",
+        "id_from": 5402,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：2021年净利润同比增2320% 　拟10派3.3元",
+        "to": "杉杉股份",
+        "id_from": 5401,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：拟对控股子公司增资30.5亿元并引入比亚迪等战投",
+        "to": "杉杉股份",
+        "id_from": 6227,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：拟对控股子公司增资30.5亿元并引入比亚迪等战投",
+        "to": "杉杉股份",
+        "id_from": 5400,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份负极材料子公司引入比亚迪等战投 　评估增值率达165.6%",
+        "to": "杉杉股份",
+        "id_from": 6226,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份负极材料子公司引入比亚迪等战投 　评估增值率达165.6%",
+        "to": "杉杉股份",
+        "id_from": 5399,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "公告精选：杉杉股份负极材料子公司引入比亚迪等战投；多氟多一季度净利同比增685.06%",
+        "to": "杉杉股份",
+        "id_from": 6225,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "公告精选：杉杉股份负极材料子公司引入比亚迪等战投；多氟多一季度净利同比增685.06%",
+        "to": "杉杉股份",
+        "id_from": 5398,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：拟投建年产30万吨锂离子电池负极材料一体化基地项目",
+        "to": "杉杉股份",
+        "id_from": 5397,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：子公司拟投建年产30万吨锂离子电池负极材料一体化基地项目",
+        "to": "杉杉股份",
+        "id_from": 5396,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份再拓展负极材料业务 　拟97亿投建项目",
+        "to": "杉杉股份",
+        "id_from": 5395,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：一季度净利同比增长166.93%",
+        "to": "杉杉股份",
+        "id_from": 5394,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "扩张负极材料产能 　杉杉股份子公司拟50亿元投建项目",
+        "to": "杉杉股份",
+        "id_from": 5393,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：上半年净利预增111%-124%",
+        "to": "杉杉股份",
+        "id_from": 5392,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "实控人郑永刚逝世 　杉杉股份、吉翔股份公告影响情况",
+        "to": "杉杉股份",
+        "id_from": 5369,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：公司实控人、董事长郑永刚病逝",
+        "to": "杉杉股份",
+        "id_from": 5370,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份新设子公司 　经营范围含石墨及碳素制品销售",
+        "to": "杉杉股份",
+        "id_from": 5371,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：拟以3亿元-5亿元回购股份",
+        "to": "杉杉股份",
+        "id_from": 5372,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份转让衢州杉杉51%持股 　新亚制程7.04亿元入主",
+        "to": "杉杉股份",
+        "id_from": 5373,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：拟7.04亿元出售衢州杉杉51%股权",
+        "to": "杉杉股份",
+        "id_from": 5374,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：预计前三季度净利润同比下降19%-22%",
+        "to": "杉杉股份",
+        "id_from": 5375,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份拟定增募资60亿扩产 　提升公司石墨化自供率",
+        "to": "杉杉股份",
+        "id_from": 5376,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：杉金广州获得AEO高级认证企业证书",
+        "to": "杉杉股份",
+        "id_from": 5377,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "27股获重要股东增持 　杉杉股份获增持金额最多",
+        "to": "杉杉股份",
+        "id_from": 5378,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：杉杉眉山20万吨负极材料一体化项目点火投产",
+        "to": "杉杉股份",
+        "id_from": 5379,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份上半年净利同比增长近1.2倍 　提升石墨化自给率成业内共识",
+        "to": "杉杉股份",
+        "id_from": 5380,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：上半年净利16.61亿元 　同比增长118.65%",
+        "to": "杉杉股份",
+        "id_from": 5381,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：上半年净利同比增118.65%",
+        "to": "杉杉股份",
+        "id_from": 5382,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份科达制造发行GDR同日在瑞士证交所上市",
+        "to": "杉杉股份",
+        "id_from": 5383,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "3个多月落地GDR发行 　杉杉股份、科达制造首批登陆瑞交所",
+        "to": "杉杉股份",
+        "id_from": 5384,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份1544.23万份中瑞通GDR拟于瑞士时间7月28日在瑞士证券交易所上市",
+        "to": "杉杉股份",
+        "id_from": 5385,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：GDR发行价格为20.64美元 　募集资金约为3.19亿美元",
+        "to": "杉杉股份",
+        "id_from": 5386,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：已确定本次发行GDR的最终价格为每份GDR20.64美元",
+        "to": "杉杉股份",
+        "id_from": 5387,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：公司将发行GDR并在瑞士证券交易所上市",
+        "to": "杉杉股份",
+        "id_from": 5388,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：发行GDR并在瑞士证券交易所上市获瑞士证券交易所监管局附条件批复",
+        "to": "杉杉股份",
+        "id_from": 5389,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    },
+    {
+        "from": "杉杉股份：发行GDR并在瑞士证券交易所上市事项获证监会核准批复",
+        "to": "杉杉股份",
+        "id_from": 5390,
+        "id_to": 167,
+        "rel": "关联",
+        "from_type": "news",
+        "to_type": "company"
+    }
+]
